@@ -1,0 +1,2193 @@
+Article 1:
+
+Students with
+Disabilities:
+Opportunities and
+Challenges for
+Colleges and
+Universities
+Barbara A. Lee
+One of the signature human rights achievements of the twentieth
+century—which occurred near its close—was the expansion of rights of
+individuals with disabilities (or rather, as some would remind us, the
+decrease in discrimination against such individuals). When the Education for
+All Handicapped Children law was enacted in 1975, children attending public
+schools gained the right to accommodations and an education in the “least
+restrictive environment” possible. That law became the Individuals with
+Disabilities Education Act (IDEA) in 1990, which expanded children's rights
+to a public education that addressed their special needs.
+The generation of children who, whether effectively or not, were
+accommodated in US public schools is now in college, and some are posing
+challenges for which some institutions are unprepared. Working with
+students with disabilities has become far more complex than simply ensuring
+that they receive classroom accommodations such as interpreters or extra
+time on tests. For example, the widespread adoption of digital technology for
+instruction (including digital e-readers instead of books) has made it difficult
+for some visually impaired students to fully participate in their academic
+programs.
+The universal symbol of disability—found on parking spaces, restrooms, and
+doors of public buildings—is the wheelchair, yet most college students with
+disabilities do not have physical disorders. Improved understanding and
+diagnosis of mental illness has opened the opportunity for a college
+education to students who a generation ago might have either been unable
+to attend college or who would have faced hurdles to college completion.
+Few college leaders of the twentieth century, for instance, would have
+contemplated, much less sanctioned, the presence of animals—except,
+perhaps, for guide dogs for blind students—in residence halls, classrooms,
+or student centers to accommodate such students.
+Data collected by the US Department of Education in 2008 indicate that US
+colleges and universities enrolled 707,000 students with disabilities, divided
+roughly equally between public and private institutions. The survey found
+that 31 percent of these students reported learning disabilities, 18 percent
+ADD or ADHD, 15 percent mental illness or psychiatric conditions, and 11
+percent other types of health impairment (Raue and Lewis, 2011, p. 3). The
+sheer number of students with disabilities suggests that most, if not all,
+colleges and universities are dealing with the need to accommodate some of
+their students.
+Section 504 of the Rehabilitation Act of 1973 has required “reasonable and
+effective accommodations” for students with disabilities in any educational
+institution receiving federal funds (including financial aid) for several
+decades. But the passage of the Americans with Disabilities Act of 1990
+(ADA) heightened public interest in the issues faced by individuals with
+disabilities in education, employment, and access to public accommodations.
+And it stimulated considerable litigation.
+Students who believe that they have encountered discrimination by a college
+or university have two choices: They may file an administrative complaint
+with the US Department of Education's Office for Civil Rights (for claims
+under both Section 504 and the ADA), or they may file a private lawsuit
+against the college. Administrative charges and lawsuits alleging disability
+discrimination skyrocketed in the first decade of the twenty-first century.
+Although colleges prevail in most (but by no means all) of these lawsuits, the
+extent and frequency of litigation have not abated.
+Students with disabilities are generally savvy about their rights and expect to
+be accommodated just as they were in K–12 education, but they may not be
+used to the independence of college and may have difficulty in managing the
+college experience. Many colleges and universities have special offices that
+deal with the needs of these students and manage the accommodation
+process.
+But in recent years, even those institutions with experienced staff and
+dedicated offices have faced new and complex challenges. Litigation
+involving students with disabilities has increasingly focused on four issues
+that are difficult to resolve for both educational and logistical reasons.
+1
+.
+Visually impaired students have challenged the use of e-readers and other
+digital hardware that may not be fully accessible to students who cannot
+read text.
+2
+.
+Some students with psychiatric disorders have requested that they be
+permitted to bring a “comfort animal” to campus and perhaps even to class.
+3
+.
+The US government has imposed stricter requirements on colleges that
+wish to exclude students who may be a danger to themselves.
+4
+.
+And students with disabilities enrolled in graduate programs with a clinical
+component who have excelled in traditional classroom-based learning but
+have difficulties with hands-on clinical education have become more likely
+to challenge their dismissals from these programs.
+E-Learning and Visual Impairments
+Under Titles II and III of the ADA, public colleges, and private colleges that
+are “places of public accommodation,” must modify their policies and
+practices to accommodate the documented disabilities of a student. At the
+same time, the widespread adoption of Web-based instructional technology
+has enabled faculty to provide students with course readings and other
+resources that can be downloaded from the course Website or the Internet.
+But students with visual impairments may not be able to access these
+course materials.
+The American Federation for the Blind has been on the forefront of filing
+complaints against colleges and universities whose digital instructional
+platforms or required e-learning devices have been difficult for visually
+impaired students to use. For example, in 2010 the Federation filed a federal
+discrimination complaint with the US Department of Justice (which enforces
+Titles II and III of the ADA) against Penn State University, claiming that the
+university's course-management software, library catalog, and the various
+Websites of academic departments were not accessible to blind students.
+That dispute was settled in 2011.
+In 2011, the Federation also filed a discrimination complaint with the Justice
+Department against Northwestern and New York Universities, alleging that
+their use of Google apps disadvantaged visually impaired students because
+the software that turns written words into spoken words was incompatible
+with the Google software.
+Meanwhile, two other organizations advocating for individuals with visual
+impairments sued Arizona State University, which had distributed electronic
+textbooks on Amazon Kindles. The lawsuit was settled, and the university
+agreed to “strive to use devices that are accessible to the blind” (Huckabee,
+January 11, 2010).
+Similar complaints against other institutions (for example, Princeton
+University, Pace University, and Case Western University) involving
+e-readers were settled by the Department of Justice; the institutions now
+require only those e-readers that are accessible to visually impaired
+students. The Departments of Justice and Education issued a joint “Dear
+Colleague” letter on June 29, 2010, that specifically addressed the limitations
+of the Kindle DX model that these institutions had adopted for classroom use
+and stated that the use of such technology is “unacceptable” when it is not
+accessible to all students.
+Finally, the Law School Admissions Council, which administers the Law
+School Admissions Test and provides important information to law school
+applicants, settled a lawsuit filed by the National Federation of the Blind that
+asserted that the organization's website was inaccessible to applicants who
+need to use screen-reader software. The Council agreed to make its entire
+website accessible to visually impaired individuals.
+Programs using e-readers or Web-based instruction need to ensure that
+these technologies are accessible to visually impaired students. This may
+require the institution to invest in equipment or software that will interact
+appropriately with the technology used by these students to gain access to
+curricular materials.
+Comfort Animals on Campus
+A set of new issues in accommodating students with disabilities concerns
+whether colleges must allow “comfort animals” or “therapy animals”—often
+recommended by an individual's therapist as an accommodation for various
+psychiatric disorders—to reside with students in residence halls or to
+accompany them to class or other college activities.
+The Department of Justice has stated that a service animal may be a
+required accommodation for a student with a disability, but the definition of
+service animal is narrow. It is “any dog that is individually trained to do work
+or perform tasks for the benefit of an individual with a disability, including a
+physical, sensory, psychiatric, intellectual, or other mental disability” (28
+C.F.R. §35.104).
+Comfort animals, which are not trained and which may be any type of animal
+that provides comfort or reassurance to a student with a disability, do not fit
+within that definition (although, in some cases, miniature horses that have
+been trained to work or perform tasks may be considered service animals).
+Another law, the Fair Housing Act (FHA), defines an “assistance animal”
+more broadly than the ADA's definition of “service animal” and includes
+“emotional support” animals within its definition (73 Federal Register 63836).
+Although there have been disputes as to whether or not the Fair Housing Act
+applies to college residence halls or college-owned apartments, the
+Department of Housing and Urban Development, which enforces the FHA,
+has determined that it does apply.
+The regulations pertinent to assistance animals permit the college to require
+students who request that they be permitted to keep an “emotional support
+animal” in a residence hall to provide medical documentation that the animal
+“alleviates at least one of the identified symptoms or effects of the existing
+disability” (73 Federal Register 63835).
+In late 2011, the US Department of Justice filed a lawsuit against the
+University of Nebraska at Kearney, stating that the university's denial of the
+request by a student with a psychological disorder to keep a therapy dog in
+her university-owned apartment violated the Fair Housing Act. In United
+States of America v. University of Nebraska at Kearney (2013), the trial court
+denied the university's motion for summary judgment, concluding that the
+anti-discrimination provisions of the Fair Housing Act apply to university
+housing and stating that a trial must be held.
+And in Velzen v. Grand Valley State University (2012), a student was
+prescribed an “emotional support” animal to help control her depression.
+When Velzen asked that she be allowed to keep her guinea pig in her
+residence hall apartment, the request was denied because the animal did
+not meet the definition of “service animal” in that it was not trained to do work
+or perform tasks. The lawsuit sought injunctive relief and compensatory
+damages. Although the university asked the court to dismiss all of the
+claims, the plaintiffs' claims for injunctive relief under the Fair Housing Act
+and the compensatory damage claim for failure to accommodate under the
+Rehabilitation Act survived dismissal. The case was settled in 2013 (Kaplin
+and Lee 2013).
+The ruling in the Kearney case and the possibility of additional litigation
+involving “comfort animals” suggests a new area of concern for college
+leaders. The college can require students who are permitted to keep animals
+in their residence hall room to be responsible for their care and control, but it
+is possible that roommates, suite-mates, or others who come into contact
+with the animal may have allergies to pet dander or even psychiatric
+conditions—such as phobias concerning reptiles, for example. Student
+affairs administrators who deal with roommate incompatibility now have an
+additional source of friction to deal with in resolving roommate or other
+interpersonal disputes.
+Students Who Engage in Risky Behavior
+A third issue involving students with disabilities is how colleges deal with
+students who may be a threat to themselves or to others. The incidents of
+violence on campus, the most extensive of which were the shootings at
+Virginia Tech, have raised the profile of this issue. Recent surveys have
+indicated that one-third of college students have sought mental health
+services, and 7 percent had seriously considered suicide (Sieben, 2011).
+The US Department of Education's Office for Civil Rights (OCR) has issued
+guidance for colleges that are considering whether to require a student who
+is at risk for harm to self or others to take a “medical withdrawal.” The
+standard for making this determination is whether or not the student is a
+“direct threat.” A student who is a direct threat is considered not to be
+qualified to be a student (and thus unprotected by Section 504 and the
+ADA); in such a case, the institution may place the student on a mandatory
+medical withdrawal.
+In determining whether a student is a “direct threat,” the ADA and Section
+504 regulations require a college to perform an “individualized assessment”
+of the nature of the student's disorder, the risk the student poses, the types
+of accommodations that might minimize or eliminate that risk, and so forth.
+Although the OCR had previously considered the student's risk to self as well
+as to others to be sufficient to connote a direct threat, it recently adopted the
+definition of the US Department of Justice, which discusses only whether the
+student is a threat to others.
+Therefore, it is less likely that a college can “solve” the “problem” of a
+student who is engaging in behavior risky to the student, but not to others, by
+requiring the student to withdraw. In fact, those colleges that have done so
+without working through the individualized assessment required by OCR
+have been found to violate the disability discrimination laws.
+For this reason, and because colleges face an increasing risk of litigation if a
+student commits suicide, institutions have invested in additional mental
+health services or have entered into agreements with local or regional
+mental health agencies to provide these services. They have also
+recognized the need to train staff—especially residence life staff—to
+recognize and respond appropriately to students who appear to be
+contemplating or engaging in risky behavior. The Family Educational Rights
+and Privacy Act (FERPA), which requires that a student's education records
+not be disclosed without the student's permission unless certain exceptions
+apply, has an exception for health and safety emergencies, and does not
+prevent college staff from dealing expeditiously with at-risk students.
+If the student appears to be a risk to the safety of others, however, the
+college may remove the student from campus, although a post-removal
+hearing would be required at both public and private institutions in order to
+perform the necessary individualized inquiry as to the possibility of
+accommodating the student to reduce the risk. And students whose conduct
+poses a risk to others may have violated the college's code of student
+conduct or housing or academic policies; the college would then proceed
+under that code or policy.
+Dismissal of Students in Clinical Programs
+The fourth area in which litigation by students with disabilities has increased
+is dismissal from an academic program with a clinical component. These
+student plaintiffs are often enrolled in health-related professional programs.
+They may have performed well in traditional classroom settings but
+encountered difficulties when required to practice what they had learned on
+patients. Others are student teachers who had good grades but faltered
+when they were required to interact with children in a classroom. The courts
+have been quite deferential, in most cases, to the judgments of faculty that
+students have not satisfied the academic requirements of the clinical portion
+of their program and that any disability that the student may have was not
+the motive for the dismissal.
+In reviewing the claims of students who have been dismissed from college,
+courts have distinguished between those dismissed on the basis of the
+academic judgment of faculty, and those dismissed on the grounds of some
+form of misconduct, whether social (such as assault or drug use) or
+academic (such as cheating). Students dismissed for academic failure,
+which has been determined by the application of faculty academic judgment,
+have found that courts defer to that judgment. Courts are somewhat less
+likely, however, to defer to a college's determination that social misconduct
+was sufficient to justify separation from the institution (although colleges tend
+to prevail in these cases as well, usually on procedural grounds).
+Dismissals for failure in a clinical experience, such as a medical school
+clinical rotation or a student teaching assignment, are often based on both
+the failure of academic performance and a failure in conduct. For example, is
+a judgment by a supervising faculty member that a medical student is
+insufficiently deferential to that faculty member's expertise or instructions an
+academic failure or actual misconduct? Is a student teacher's “poor attitude”
+toward her classroom students a professional failure (involving academic
+judgment) or misbehavior? Most courts have spent very little time addressing
+these questions, determining that faculty judgments about student behavior
+in a clinical setting are “academic judgments” and thus should be reviewed
+deferentially.
+An illustrative case is Halpern v. Wake Forest University Health Sciences
+(2012). A medical student had been diagnosed with ADHD and was on
+medication to alleviate its symptoms. During his clinical rotations,
+supervising faculty documented numerous instances of “unprofessional
+behavior, which included his resistance to feedback, rudeness,
+[inappropriate] treatment of staff members, and absences.” Halpern was
+dismissed from the medical school. He sued under both the Rehabilitation
+Act and the ADA, claiming that the medical school had not accommodated
+his disability.
+The court made short work of Halpern's claim, determining that it was his
+behavior, not his disability, that motivated his dismissal. Although the court
+explained that the US Supreme Court precedent with respect to evaluating
+faculty academic judgments required a measure of judicial deference, it
+noted that it must determine whether the medical school fulfilled its duty to
+accommodate a student with a disability. The court then determined that
+professional behavior was an essential part of the role of a physician, and
+that Halpern's inability to behave in a professional manner meant that he
+was not qualified to be a medical student or a doctor (under the ADA's
+definition of “qualified”).
+The court rejected Halpern's argument that he deserved a “second chance”
+to behave in a more professional manner, given that his misconduct had
+extended over several years. The court concluded that there was no
+accommodation that would ensure that Halpern could moderate his behavior,
+and thus it ruled in favor of the medical school.
+A second case also addresses the behavioral aspects of satisfying the
+requirements of a professional degree program. In Herzog v. Loyola College
+in Maryland (2009), the plaintiff, Mr. Herzog, had earned an undergraduate
+and two master's degrees without any problems. He then enrolled in a
+doctoral program in clinical psychology. Although Herzog had been
+diagnosed with ADHD, he did not inform the college of his disability, nor did
+he request any accommodations until late in his doctoral program, when he
+requested additional time on two tests, which the college provided.
+Herzog earned excellent grades in his classroom-based courses, although
+several faculty had expressed concerns about his behavior—in particular, his
+‘lack of awareness of [his] impact on others” and his inability “to recognize
+power differentials.” Herzog then applied for a required internship in his final
+year of the doctoral program at a site at Montana State University. In
+completing paperwork as a new employee at the internship site, Herzog
+indicated that he did not have any disabilities.
+During the course of the internship, Herzog engaged in behaviors that his
+supervisors judged to be unprofessional, including “pursuing” a student in a
+class he was teaching and an apparent inability to recognize “power
+differentials” and to behave in a professional manner. Although the internship
+supervisor was willing to place Herzog on a remediation plan, the faculty at
+Loyola College determined that his “persistent pattern” of misconduct
+justified his dismissal from the program.
+The court agreed that ADHD could be considered a disability in Herzog's
+situation, but his strong academic performance throughout his academic
+career, without accommodations, indicated that the disorder did not
+substantially limit his ability to learn (a required showing under the ADA).
+Noting that courts are expected to defer to faculty academic judgments
+about student performance, the court rejected Herzog's claim that his
+dismissal was related to his disability, noting that Herzog's problematic
+behavior was a legitimate, nondiscriminatory reason for his dismissal. The
+court commented: “It is well within Loyola's discretion to dismiss a student
+who has problems with authority, difficulty understanding the impact of his
+conduct on others and who has conceded to breaching ethical standards
+promulgated by the school.”
+These two cases are typical of judicial responses to claims by professional
+school students that the college should have been more proactive in
+forgiving or accommodating misconduct that the student alleges is a
+manifestation of the disability. And although some commentators argue that
+punishing a student with a disability for misconduct that is related to that
+disability is itself illegal (Korn, 2003), the courts do not agree.
+If the college can demonstrate 1) that the problematic behavior is contrary to
+the ethical or professional standards of the profession and 2) that faculty and
+others attempted to work with the student to correct the behavior, but that the
+problem persisted, courts will defer to the academic judgment of the faculty
+that the student is unfit for that particular profession.
+Implications for Campus Leaders
+As science progresses and we learn more about the nature and cause of
+physical and mental disorders, it is likely than a larger proportion of college
+students will request, and will be entitled to, accommodations. Advances in
+technology have greatly expanded colleges' ability to accommodate certain
+disorders, although, as addressed earlier in this article, they have also acted
+in ways that may exclude students with other types of disorders.
+The good news for college leaders is that the courts are, for the most part,
+committed to upholding academic standards and are usually deferential to
+the faculty's exercise of academic judgment (unless the court determines
+that academic judgment was not really exercised and some impermissible
+motive for the student's “mistreatment” is evident). New accommodation
+requests and justifications will undoubtedly arise, and college leaders will
+need to develop policies to address emerging issues that were unrecognized
+even a few years ago.
+But at least for now, the appropriate exercise of academic judgment, sincere
+attempts to work with the student to minimize the effects of the disability, and
+clear-eyed focus on ensuring that academic standards are upheld should
+result in a favorable disposition of any litigation that may ensue.
+Previous articleView issue table of contentsNext article
+Resources
+1. Halpern v. Wake Forest University Health Sciences. 669 F.3d 454 (4th Cir.
+2012) [Google Scholar]
+2. Herzog v. Loyola College in Maryland. 2009 U.S. Dist. LEXIS 94454 (D.
+Md. Oct. 9, 2009) [Google Scholar]
+3. Huckabee, C. January 11 2010. “Arizona State U. and 2 groups for the
+blind settle lawsuit over Kindle.”. In Chronicle of Higher Education
+January 11, January 11. Retrieved from
+http://chronicle.com/blogs/wiredcampus/arizona-state-u2-groups-for-the-b
+lind-settle-lawsuit-over-kindle/20439 [Google Scholar]
+4. Kaplin, W. A. and Lee, B. A. 2013. The law of higher education, , 5th ed.,
+San Francisco, CA: Jossey-Bass Publishers. [Google Scholar]
+5. Korn, J. B. 2003. Crazy (mental illness under the ADA). University of
+Michigan Journal of Law Reform, 36: 585–652. [Google Scholar]
+6. Raue, K. and Lewis, L. 2011. Students with disabilities at degree-granting
+postsecondary institutions. U.S. Department of Education, National
+Center for Education Statistics., Washington, DC: U.S. Government
+Printing Office. [Google Scholar]
+7. Sieben, L. March 14 2011. “Nearly a third of college students have had
+mental health counseling, study finds.”. In Chronicle of Higher Education.
+March 14, Retrieved from
+http://chronicle.com/article/Nearly-a-Third-of-college/126726/ [Google
+Scholar]
+8. United States of America v. University of Nebraska at Kearney. 2013 U.S.
+Dist. LEXIS 56009 (D. Neb. Apr. 19, 2013) [Google Scholar]
+9. U. S. Department of Justice and U. S. Department of Education. 2010.
+“Joint “Dear Colleague” letter.”. In Electronic Book Readers Retrieved
+from
+http://www2.ed.gov/about/offices/list/ocr/letters/colleague-20100629.html
+[Google Scholar]
+10.Velzen v. Grand Valley State University. 2012 U.S. Dist. LEXIS 145666
+(W.D. Mich. October 10, 2012) [Google Scholar]
+
+Article 2:
+
+Life Span and Disability XXIII, 1 (2020), 43-64
+43
+Challenges encounter students 
+with physical disabilities 
+at the Hashemite University in Jordan
+Mu'tasem M. Al Masa'deh1
+Abstract
+Although higher education for students with disabilities has become more 
+and more accessible, the environments of some universities and colleges 
+still limit students' potentials. This research was aimed to explore the 
+most relevant challenges that students with physical disability have to 
+face at The Hashemite University in Jordan. A quantitative design was 
+employed wherein a questionnaire was developed to collect the data. The 
+study sample consisted of sixty-three (63) students with physical 
+disability, who were recruited from both humanities and scientific 
+faculties at the Hashemite University. Results revealed that students with 
+physical disabilities faced moderate levels of challenges. The way they 
+perceived challenges differed on the basis of the study variables, namely 
+gender, academic year, and faculty type. Significant statistical 
+differences were found in students' perception of challenges within some 
+domains of the study tool. These results are consistent with the existing 
+literature. Based on research outcomes, some recommendations are 
+finally provided for policy-making and practice.
+Keywords: Challenges; Students with physical disability; Higher 
+education; Accommodation; Jordan.
+1
+Special Education Department, Faculty of Queen Rania for Childhood, Hashemite University. 
+Mobile Phone: 00962798565324; E-mail: masadeh@hu.edu.jo.
+Received: April 22, 2019; Revised: June 18, 2020; Accepted: June 24, 2020
+© 2020 Associazione Oasi Maria SS. - IRCCS
+Life Span and Disability Al Masa׳deh M. M.
+________________________________________________________________________________________________________________________________
+44
+1. Introduction and background
+Undoubtedly, every individual with disability is entitled to access 
+appropriate education that suits his/her characteristics and abilities, and this 
+is true for any school levels, from primary to higher education. Article 24 of 
+the United Nations (UN) Convention on the Rights of Persons with 
+Disabilities (CRPD) has endorsed their right to have inclusive and equitable 
+higher education (UN, 2006). This notion was adopted by the American 
+Individuals with Disabilities Education Act (IDEA, 2004). This law insisted 
+the right for people with disabilities to receive free inclusive education 
+services. According to IDEA, students with disabilities should access higher 
+education in the least restrictive environment. Therefore, higher educational 
+institutions should work to achieve reasonable accommodation for students 
+with disabilities (Agarwal, Calvo, & Kumar, 2014; Thompson-Ebanks, 
+2014; Abdella, 2018).
+The legislative initiatives for students with disabilities in higher 
+education have contributed to increase the number of students with 
+disabilities in the universities worldwide (Squelch, 2010; Melero, Moriña, & 
+López-Aguilar, 2018). Within the Jordanian context, higher education policy 
+framework has a strong equity agenda as well, for example, the Law on the 
+Rights of Persons with Disabilities No. 20 for the Year 2017. Article 21 of 
+this law states that “No person may be excluded from higher education 
+institutions or be denied the right to study any specializations available 
+therein on the basis of, or because of, disability” [Higher Council for the 
+Affairs of Persons with Disabilities (HCAPD), 2017]. This new law clearly 
+emphasizes the role of the Ministry of Higher Education, who has to ensure 
+easy and free access to inclusive higher educational institutions, reasonable 
+accommodation, and adjustable admission requirements for students with 
+disabilities.
+2. Literature review
+Although the university enrollment rate of students with disabilities in 
+postsecondary education has dramatically increased, their graduation rates 
+are still low compared to those of their non-disabled peers (Barnar-Brak, 
+Lectenberger, & Lan, 2010; Marshak, Van Wieren, Ferrell, Swiss, & Dugan, 
+2010; Black, Weinberg, & Brodwin, 2015). This lower performance in 
+higher education institutions may result from challenges that students with 
+disabilities have to face during their study (Webster, 2004; Agarwal et al., 
+Challenges encounter students with physical disabilities ________________________________________________________________________________________________________________________________
+45
+2014). Accordingly, some studies have shown that the persistence and 
+retention rates in universities and colleges among students with disabilities 
+are lower than those of their peers (Getzel, 2008; Thompson-Ebanks, 2014; 
+Fleming, Plotner, & Oertle, 2017).
+Most of the research studies have dealt with students with disabilities in 
+higher education (colleges and universities). While part of the research 
+focused on the willingness of college and university staff to provide 
+reasonable accommodation, other studies were more concerned with the 
+barriers that students with disabilities encounter in higher education 
+institutions.
+2.1. Accommodation for students with disabilities
+Researchers reported that most lecturers and workers in higher education 
+institutions were willing to offer accommodation for students with 
+disabilities (Sweener, Kundert, May, & Quinn, 2002; Phillippe, 2012; 
+Alhossein, 2014; Kusek, 2017; Abdella, 2018). The existing literature 
+reported various forms of accommodation that could facilitate higher 
+education for students with disabilities and increase their attendance and 
+graduation likelihood. These accommodation services could be, for example, 
+adjusting entrances, modifying course materials and assessment tools, and 
+offering certain devices or equipment (Squelch, 2010; Kilpatrick, Johns, 
+Barnes, Fischer, McLennan, & Magnussen, 2017), giving deadline 
+extensions to fulfill assignments (Hewett, Douglas, McClinden, & Keil, 
+2017), and residential and recreational facilities (Barnar-Brak et al., 2010). 
+In contrast, in a qualitative study by Ginsberg and Schulte (2008), some 
+participants perceived the provision of university special accommodation to 
+students with disabilities as an unfair practice. The lecturers believed they 
+couldn’t account for being responsible of students' disabilities; consequently, 
+they were unwilling to make any adjustment either in their teaching methods 
+or in testing system for students with disabilities (Ginsberg & Schulte, 
+2008). These findings were reflected in many studies, in which lecturers 
+turned out to be unwilling to provide accommodation and dissatisfied with 
+making changes for students with disabilities (Skinner, 2007; Baker, 
+Bolland, & Nowik, 2012; Sniatecki, Perry, & Snell, 2015).
+Although students with disabilities who had the opportunity to access 
+available accommodations seemed to achieve better academic results, 
+research demonstrated how they were sometimes reluctant to use these 
+services or tended to differ the seeking for this kind of support (Barnar-Brak 
+Life Span and Disability Al Masa׳deh M. M.
+________________________________________________________________________________________________________________________________
+46
+et al., 2010; Lightner, Kipps-Vaughan, Schulte, & Trice, 2012; Herridge, 
+2017). Marshak et al. (2010) interviewed 16 students with different types of 
+disabilities who were studying at colleges in USA. According to researchers, 
+some factors seemed to keep students with disabilities from requesting 
+disability support services, for example “a desire to redefine personal 
+identity, to avoid social stigma and negative peer and faculty reactions, 
+difficulty explaining their disability-related needs, and being disappointed 
+with the utility of accommodations received” (p.160). Further, the fact of 
+having no knowledge about disability services available in educational 
+settings was another factor that hindered students with disabilities from 
+using these services (Álvarez Pérez, Alegre de la Rosa, & López Aguilar, 
+2012; Herridge, 2017).
+2.2. Challenges faced by students with disabilities in higher education
+Álvarez Pérez et al. (2012) estimated that only 3% of students with 
+disabilities who accessed higher education achieved their university degrees. 
+This low graduation rate might originate from the challenges that those 
+students encountered during their university or college lives. The transition 
+of students with disabilities from secondary school to higher education 
+involves many hindrances, as they will experience new challenging 
+environments that students without disabilities may not have to face 
+(Webster, 2004; Eckes & Ochoa, 2005; Cawthon & Cole, 2010; Lowen & 
+Pollard, 2010).
+Several studies have investigated challenges that students with 
+disabilities encounter. Such studies have used different methodological 
+approaches, often recruiting students with varying disabilities. For example, 
+Stallman (2011) screened the psychological distress among students who 
+enrolled in two large Australian universities. She found that students with 
+disabilities showed higher levels of psychological distress than those without 
+disabilities. Agarwal, Moya, Yasui and Seymour (2015) conducted a 
+participatory action research with six students with a variety of disabilities at 
+American universities. Researchers reported feelings of isolation and peers 
+negative attitudes as being the most important barriers experienced by 
+participants (Agarwal et al., 2015). Soorenian (2017) explored the higher 
+education lives of 30 international students with disabilities studying at 11 
+UK universities. Participants experienced two main challenges: poor 
+information about available accommodation, and unavailable physical 
+accessibility. Fleming et al. (2017) carried out a survey on 325 students with 
+Challenges encounter students with physical disabilities ________________________________________________________________________________________________________________________________
+47
+a wide range of disabilities enrolled in three large American universities, 
+focusing on how they perceived the university environments. The analysis of 
+data collected suggests that although participants perceived many services as 
+being helpful, on the other hand, they felt that the university staff were not 
+trained enough to deal with them and lacked specific knowledge about 
+disabilities (Fleming et al., 2017). The negative interaction between faculties 
+and students with disabilities as well as attitudinal barriers were highlighted 
+in many studies (Holloway, 2001; Shevlin, Kenny, & McNeela, 2004; 
+Tagayuna, Stodden, Chang, Zeleznik, & Whelley, 2005; Haller, 2006; 
+Barnard, Stevens, Siwatu, & Lan, 2008; Erten, 2011; Banks, 2014; Gelbar, 
+Madaus, Lombardi, Faggella-Luby, & Dukes, 2015; Yssel, Pak, & Beilke, 
+2016). These findings were also reported in case of students with invisible 
+disabilities (Krider, Bendixen, & Lutz, 2015).
+Researchers from non-Western settings have shown similar outcomes. 
+For example in China, Hong (2015) collected qualitative data from 16 
+students with disabilities who had enrolled in postsecondary education; 
+participants reported to have experienced daily challenges such as faculty 
+belief, unprofessional support services, ableism, and low expectations from 
+the counselors. In Kenya, similar findings were found in a study with 20 
+female students with disabilities from two public universities (Opini, 2012). 
+The female students reported further hindrances, such as the lack of 
+transport, paucity of financial resources and sexual abuse (Opini, 2012). 
+Women with disabilities in Dar es Salaam University in Tanzania 
+experienced inaccessible learning and physical distress, due to, for example, 
+inappropriate teaching methods and materials, and unorganized classrooms 
+(Matonya, 2016). Mutanga (2017) reviewed some studies regarding students 
+with disabilities in South African higher education institutions. Among the 
+common challenges typically reported in the literature, in this study 
+researchers have described poor physical access and lacking of disability 
+policy as being the most significant challenges (Mutanga, 2017). In Saudi 
+Arabia, Al-khashrami (2011) explored the views of students with disabilities 
+enrolled at King Saud University. Although students felt that the instructors 
+had positive attitudes toward them, the accommodation services did not 
+meet their needs and teaching methods were rather inappropriate (Alkhashrami, 2011). Moreover, students with disabilities at Kuwait University 
+reported other challenges such as not being accepted by their peers, 
+unavailable facilities, unsuitable library resources, and structural barriers 
+(Al-Shammeri, 2008).
+Life Span and Disability Al Masa׳deh M. M.
+________________________________________________________________________________________________________________________________
+48
+Overall, the existing studies in the literature seem to indicate that students 
+with disabilities in higher education institutions continue to experience 
+various challenges, including attitudinal, architectural, personal, and 
+institutional barriers. However, although the vast majority of research in the 
+last two decades has tended to concentrate on the population with disability 
+as a whole, rather than considering groups of students with specific 
+impairments separately, the samples included in these studies were rather 
+small (Gelbar et al., 2015). Moreover, most of the research studies have 
+been conducted in Western countries, therefore there is a limited amount of 
+research investigating the status of postsecondary education for students 
+with disabilities in the Arab world; more specifically, there appear to be no 
+studies on challenges encountered by students with physical disabilities at 
+Jordanian Universities. This study aims to contribute to the existing 
+literature on identifying the barriers that restrict inclusive higher education 
+services for students with physical disabilities. Results are expected to also 
+help policymakers and service providers in overcoming such difficulties and 
+eventually improve the experiences of students with disabilities in colleges 
+and universities. Specifically, this study aims to answer the following 
+research questions: (a) What level of challenges are students with physical 
+disabilities encountering at the Hashemite University? (b) Are there 
+differences in the type of challenges reported depending on students' gender, 
+faculty, and year of study?
+3. Setting
+This research took place at The Hashemite University, one of the highranking universities among Jordanian public higher educational institutions. 
+The university offers various types of services for students who were 
+identified as having a disability. In the academic year 2015/2016, there were 
+126 students with disabilities enrolled in the university faculties, 25 of them 
+presenting with hearing impairment, 31 with visual impairment, and 80 with 
+physical disabilities. Services provided for those students by the university 
+consisted in sign language translation, note taking, a reader and a scribe 
+during exams, recorded courses, as well as discounted fees.
+4. Method
+This study was based on a quantitative approach, with the use of a 
+questionnaire design to identify the challenges faced by students with 
+Challenges encounter students with physical disabilities ________________________________________________________________________________________________________________________________
+49
+physical disabilities at The Hashemite University. Results were expected to 
+be helpful for students in enjoying their higher education experience, 
+developing their potentials and attaining their goals. A quantitative design 
+was also used to measure challenges as perceived by students and to 
+establish whether and which variables might influence such challenges. 
+Perceived challenges have been obtained by collecting quantitative data 
+which have been subsequently analyzed with statistical methods.
+4.1. Research population
+The study population consisted of all students who were identified as 
+having physical disabilities and enrolled at the Hashemite University in 
+Jordan during the academic year 2017/2018. According to the university 
+enrollment office, there were 41 males and 39 females, enrolled in scientific 
+as well as human faculties.
+4.2. Sample and recruitment
+After obtaining ethics approval, the research coordinator, starting from a 
+list provided by the Deanship of Students Affairs that included detailed 
+information about the students with physical disabilities enrolled in the 
+university, contacted those students by phone to see whether they would 
+give their consent to participate in the research. 
+Table 1 - Description of the participants
+Gender
+Male 33
+Female 30
+Total 63
+Faculty type
+Scientific 38
+Humanities 25
+Total 63
+Year of studies
+First 20
+Second 21
+Third 11
+Fourth 11
+Total 63
+Twelve students apologized that they were not in a position to take part in 
+this research, and eight students could not be contacted as the phone 
+Life Span and Disability Al Masa׳deh M. M.
+________________________________________________________________________________________________________________________________
+50
+numbers provided were wrong or unreachable. Finally, 63 students accepted 
+to participate and answered the questionnaire administered. Table 1 provides 
+information for each student according to gender, faculty type, and year of 
+study.
+4.3. Instruments
+A questionnaire was purposefully designed to identify challenges that 
+students with physical disabilities were encountering. In the process of 
+developing the questionnaire items, two methods were applied: (1) 
+reviewing the related literature published in the international databases; and 
+(2) asking six students with physical disabilities who had completed their 
+bachelor degrees the following question: “What challenges have you faced 
+during your studies at the university?”. This process resulted in a list of 
+items which were grouped by the researcher and collated under six domains.
+In order to ensure its validity, the questionnaire was sent to five 
+professors specialized in education of disabled students, who were asked to 
+rate the questionnaire items and domains. The final version of the 
+questionnaire, which included professors’ revisions and comments, was 
+made of 89 items covering six domains. Definition and number of items in 
+each domain were the following: (I) Learning (24 items): this domain refers 
+to any changes or rearrangements by the lecturers in order to ensure students 
+with physical disabilities equal access to full lecture experiences. New 
+teaching strategies, assignments, testing systems, and seating arrangements, 
+use of special devices and classroom adaptations were among the most 
+important changes introduced. (II) Architecture (16 items): this domain 
+measures the appropriateness of university buildings, utilities, and spaces for 
+students with physical disabilities. (III) Mobility (11 items): this domain taps 
+on the challenges encountered by students with physical disabilities, limiting 
+their mobility and movement to reach the university and access classes. (IV) 
+Accessibility and availability of related information (9 items): this domain 
+refers to whether students with physical disabilities find the relevant 
+information as being available and accessible, for example having equitable 
+access to the library services. (V) Administration (12 items): this domain 
+investigates the availability of professional employees at the university to 
+advice and guide students with physical disabilities whenever it is the case. 
+(VI) Psychological and social self-adjustment (17 items): this domain 
+assesses the challenges that prevent students with physical disabilities from 
+Challenges encounter students with physical disabilities ________________________________________________________________________________________________________________________________
+51
+being psychologically and socially adapted at the university, for example, 
+interaction with others, negative attitudes, and communication difficulties. 
+Cronbach's alpha was used as a measure of internal consistency of the 
+instrument. 20 students with disabilities, who were studying in other 
+universities, completed the questionnaire and their results were statistically 
+analyzed. We correlated the score from each domain with the total score of 
+the questionnaire. Table 2 shows that the reliability coefficients for all the 
+domains ranged between .76 and .89, which was deemed satisfactory for the 
+reliability of the questionnaire domains.
+Table 2 - Reliability score for the questionnaire domains
+Domain Reliability score
+1. Learning .80
+2. Architecture .76
+3. Mobility .84
+4. Accessibility and availability of related information .89
+5. Administration .83
+6. Psychological and social self-adjustment .85
+Total .92
+The questionnaire consisted of two parts: Part A included demographic 
+data of respondents (gender, year of study, and college type); Part B 
+included 89 self-report items. Potential students were required to rate their 
+perceived levels of challenges using a four-point Likert scale. The 
+questionnaire items had two kinds of action statements; the first type of 
+items were positive action statements (always = 4, often = 3, sometimes = 2, 
+and never = 1), while the other type of items were negative action statements 
+(always = 1, often = 2, sometimes = 3, and never = 4).
+5. Results 
+The software Statistical Packages for Social Sciences (SPSS), version 
+22.0, was used to make statistical analyses. Means (M) and Standard 
+Deviations (SD) were calculated to identify the level of challenges that the 
+participants encounter at the university (Tab. 3). 
+Life Span and Disability Al Masa׳deh M. M.
+________________________________________________________________________________________________________________________________
+52
+Table 3 - Means (M) and Standard Deviations (SD) for the questionnaire 
+domains ranked in a descending order according to their means
+Rank Domain M SD Level
+1 Administration 2.62 .52 Moderate
+2 Architecture 2.54 .58 Moderate
+3 Mobility 2.49 .48 Moderate
+4 Information Accessibility and availability 2.29 .72 Moderate
+5 Learning 2.12 .42 Moderate
+6 Psychological and Social Self-adjustment 1.42 .28 Low
+Total 2.19 .32 Moderate
+The table shows that, overall, students with physical disabilities at 
+Hashemite University face moderate level of challenges in the 
+Administration domain, scoring the highest mean (2.62). However, it is also 
+worth noting that the Psychological and Social Self-adjustment domain had 
+the lowest mean (1.42), thus indicating that students encountered low level 
+of challenges with regard to psychological and social self-adjustment.
+Two-independent sample t-test and One-way ANOVA were used with 
+the purpose of detecting any differences in the challenge levels according to 
+the study variables. 
+Table 4 - Levels of challenge encountered according to participants' gender
+Domain Gender N M SD T DF Sig
+Learning
+Male 33 2.09 .37
+-.463 61 .645
+Female 30 2.14 .47
+Architecture
+Male 33 2.40 .62
+*-2.068 61 .043
+Female 30 2.70 .50
+Mobility
+Male 33 2.47 .53
+-.228 61 .820
+Female 30 2.50 .43
+Accessibility and availability 
+of related information
+Male 33 2.25 .71
+-.440 61 .661
+Female 30 2.33 .74
+Administration
+Male 33 2.70 .50
+1.385 61 .171
+Female 30 2.52 .53
+Psychological and social 
+self-adjustment
+Male 33 1.38 .20
+-1.168 61 .248
+Female 30 1.46 .35
+Total
+Male 33 2.16 .30
+-.848 61 .400
+Female 30 2.22 .33
+* the correlation is significant at the .05 level. 
+Challenges encounter students with physical disabilities ________________________________________________________________________________________________________________________________
+53
+Having gender and college type as the study variables across the six 
+domains of the questionnaire, a two-independent sample t-test was applied. 
+Results revealed that there were significant statistical differences in the 
+Architecture domain in favor of female students (Tab. 4).
+There were also significant statistical differences in the Learning and 
+Information Accessibility and Availability domains in favor of scientific 
+faculties (Tab. 5).
+Table 5 - Levels of challenge encountered according to participants' faculty
+Domain Faculty N M SD T DF Sig
+Learning
+Scientific 38 2.21 .43
+*2.250 61 .028 Humanities 25 1.98 .36
+Architecture
+Scientific 38 2.64 .58
+1.588 61 .118 Humanities 25 2.40 .56
+Mobility
+Scientific 38 2.48 .53
+-.113 61 .910 Humanities 25 2.50 .42
+Accessibility and availability 
+of related information
+Scientific 38 2.45 .68
+*2.276 61 .026 Humanities 25 2.04 .72
+Administration
+Scientific 38 2.63 .59
+.202 61 .841 Humanities 25 2.60 .41
+Psychological and social 
+self-adjustment
+Scientific 38 1.45 .32
+1.206 61 .233 Humanities 25 1.36 .21
+Total
+Scientific 38 2.25 .35
+1.956 61 .055 Humanities 25 2.09 .24
+* the correlation is significant at the .05 level. 
+Having the year of study as the study variable, the One-way ANOVA test 
+was applied. The analysis showed that there were significant statistical 
+differences in the Administration domain (Tab. 6).
+To determine the source of differences between the four years of study, 
+Scheffe’ Test was used. The analysis showed that fourth-year students 
+encountered greater challenges (Tab. 7).
+Life Span and Disability Al Masa׳deh M. M.
+________________________________________________________________________________________________________________________________
+54
+Table 6 - One-Way ANOVA analysis on the effect of the year of study on 
+challenges encountered
+Domain Source
+of Variance
+Sum of 
+Square
+DF Means of 
+Square F Sig
+Learning
+Between Groups .341 3 .114 .642 .591
+Within Groups 10.449 59 .177
+Total 10.790 62
+Architecture
+Between Groups .134 3 .045 .128 .943
+Within Groups 20.675 59 .350
+Total 20.810 62
+Mobility
+Between Groups .081 3 .027 .111 .953
+Within Groups 14.375 59 .244
+Total 14.456 62
+Accessibility and 
+availability of 
+related information
+Between Groups 3.829 3 1.276 2.676 .055
+Within Groups 28.139 59 .477
+Total 31.968 62
+Administration
+Between Groups 2.484 3 .828 *3.442 .022
+Within Groups 14.190 59 .241
+Total 16.674 62
+Psychological and 
+social selfadjustment
+Between Groups .468 3 .156 2.060 .115
+Within Groups 4.471 59 .076
+Total 4.939 62
+Total
+Between Groups .334 3 .111 1.112 .352
+Within Groups 5.914 59 .100 .642
+Total 6.248 62
+* the correlation is significant at the .05 level. 
+Table 7 - Results from Scheffe’ Test revealing differences in challenges 
+encountered based on the year of study
+Domain Year of study M
+Mean difference
+Second Third Fourth
+Administration
+First 2.46 .09 .16 *.57
+Second 2.55 *.48
+Third 2.62 *.41
+Fourth 3.03
+* the correlation is significant at the 0.05 level. 
+Challenges encounter students with physical disabilities ________________________________________________________________________________________________________________________________
+55
+6. Discussion
+This study aimed to explore challenges faced by students with physical 
+disabilities enrolled at Hashemite University. However, despite Jordan 
+initiatives to enact local legislation and ratify international conventions 
+related to the right of persons with disabilities to access inclusive higher 
+education settings, results of this study still highlight several difficulties at 
+university. As an example, the item “The number of toilets near the lecture 
+halls is appropriate”, included in the Architecture domain, was frequently 
+rated as being a challenge. This might be explained by the fact that the 
+higher education institutions in Jordan have not taken serious steps to 
+implement the local Law on the rights of persons with disabilities (HCAPD, 
+2017). Thompson (2018) reviewed the current situation of individuals with 
+disabilities in Jordan; he reported that most persons with disabilities 
+experience difficulties in public places, such as accessibility barriers in 
+schools and universities, therefore, he recommended that “existing schools 
+and universities must be refurbished to facilitate access to students with 
+disabilities” (p.40). This is urging the application of universal designs for the 
+new buildings in order to make them accessible to all people without 
+requiring further adaptations. Moreover, negative attitudes toward 
+disabilities from the local communities continue to hinder promoting equal 
+and inclusive education in Jordan (Hyassat, 2013; 2016).
+Although Gelbar et al. (2015) contended that students with physical 
+disabilities were among the first students who accessed accommodation 
+services in higher education institutions, research participants declared they 
+were still struggling to find accessible means of transport (Opini, 2012). To 
+ensure equal access to higher education for students with physical 
+disabilities, colleges and universities are required to offer reasonable 
+accommodation in their facilities and classrooms (Abes & Wallace, 2018). 
+Unfortunately, students seem to experience mobility constraints, as lectures 
+are usually kept in different blocks of the same university campus, thus 
+forcing them to move from one class to another. Indeed, the item “I can 
+move inside the university easily and smoothly” was rarely rated positively. 
+Classes and labs were unadjusted to suit students’ characteristics and meet 
+their needs. Further, like most of Soorenian's (2017) participants, students 
+with physical disabilities recruited in this study faced difficulties in 
+obtaining accessible and relevant information.
+Specifically, the fifth domain of the questionnaire, Administration, 
+ranked on top of the challenges encountered by students, probably due to the 
+Life Span and Disability Al Masa׳deh M. M.
+________________________________________________________________________________________________________________________________
+56
+university staff that are not adequately trained to deal with students with 
+disabilities. This was clear in the participants' responses to the item “I find it 
+difficult to communicate with the university employees”. This finding is 
+consistent with those of other studies conducted worldwide (Holloway,
+2001; Shevline et al., 2004; Tagayuna et al., 2005; Haller, 2006; Barnard et 
+al., 2008; Opini, 2012; Banks, 2014; Gelbar et al., 2015; Yssel et al., 2016; 
+Fleming et al., 2017). In reviewing the literature on teaching students with 
+disabilities at post-secondary school, Dyer (2018) concluded that “the 
+college or university and its faculty must be knowledgeable regarding 
+disability law and accommodations” (p.78). This can be definitely applicable 
+to higher education institutions in Jordan, since it would help alleviate 
+difficulties that students with disabilities encounter in their university life 
+because of several barriers.
+However, the barriers reported by participants as being less challenging 
+fell into the “Psychological and Social Self-adjustment” domain. It seems 
+that students with physical disabilities feel happy with being included in the 
+university with other students; this may give them a sense of equity, 
+opportunities to socially interact and being accepted by others. The majority 
+of students with physical disabilities in this research rated the item “I have 
+many non-disabled friends in the university” as “always”. Ultimately, this 
+could also positively affect their general level of social and psychological 
+adjustment. Al-Shammeri (2018) found that including students with 
+disabilities in a university setting improved their skills to challenge their 
+disabilities and lessen their life stress. This result is also consistent with Alkhashrami's (2011) study, which concluded that, offering chances for 
+interaction between students with disabilities and their peers created, in turn, 
+positive attitudes toward students with disabilities.
+In the evaluation of how gender affects the perceived level of challenges, 
+female students turned out to encounter higher levels of difficulties, 
+specifically in terms of architectural barriers. This may be a reflection of 
+Arab cultural aspects and at times religious principles, where male students 
+can freely ask others for help when in need, while female students are 
+restricted in doing so. In similar social contexts, e.g. in Saudi Arabia, Alkhashrami (2011) found that female students had more negative attitudes 
+toward suitability of university places and facilities.
+Challenges encounter students with physical disabilities ________________________________________________________________________________________________________________________________
+57
+7. Limitations
+Like in the majority of quantitative studies, this study presented some 
+limitations. The first limitation was that all participants were recruited from 
+the same university; students with physical disabilities in other Jordanian 
+universities may have different experiences. Another limitation was that no 
+information were obtained from students with other types of disabilities; 
+additional data on challenge perceptions would certainly contribute to 
+enlarge knowledge on students’ experiences. However, information 
+collected from the study sample were rather significant in terms of 
+understanding the experience of students with physical disabilities, which 
+would help develop more inclusive environments.
+8. Conclusion and Future Research
+Although this research study involved participants with only one type of 
+disability and enrolled at one public university, it addressed attitudinal, 
+architectural, personal, and institutional challenges that students with 
+physical impairment encounter in Jordanian universities and colleges. To 
+overcome these challenges, higher educational institutions should provide 
+appropriate support to students with disabilities that suites their individual 
+characteristics (Van, Moyson, & Roeyers, 2015).
+To the best of my knowledge, this study is an initial step to pave the way 
+for understanding the challenges faced by university students with 
+disabilities. Results from this study might be helpful to policy makers in 
+planning future inclusive and equitable higher education settings. This can 
+be achieved with the contribute of policies that focus on increased campus 
+accessibility, appropriate accommodation, and improved faculty attitudes 
+and academic culture. Furthermore, it is extremely important to place greater 
+emphasis on transition programs from high school to higher education, in 
+order to prepare students with disabilities for post-secondary education.
+Based on these results, I recommend that future research include students 
+with different types of impairments, such as hearing and visual impairment 
+and learning difficulties; it would seem also appropriate to add more 
+research variables, such as social and economical background of students. 
+Moreover, qualitative studies would provide a deeper understanding of 
+research results. Finally, colleges and academic staff perspectives are 
+important factor that account for successful planning of higher education 
+Life Span and Disability Al Masa׳deh M. M.
+________________________________________________________________________________________________________________________________
+58
+environments and activities aimed at facilitating the life of students with 
+disabilities.
+References
+Abdella, A. S. (2018). Instructors’ willingness to provide instructional 
+accommodations for students with disabilities in selected universities of 
+Ethiopia. International Journal of Inclusive Education, 22 (6), 671-682.
+Abes, E. S., & Wallace, M. M. (2018). "People See Me, But They Don't See 
+Me": An Intersectional Study of College Students With Physical 
+Disabilities. Journal of College Student Development, 59 (5), 545-562.
+Agarwal, N., Calvo, B., & Kumar, V. (2014). Paving the Road to Success: 
+Students with Disabilities Organization in a University Setting. College 
+Student Journal, 48 (1), 34-44.
+Agarwal, N., Moya, E. M., Yasui, N. Y., & Seymour, C. (2015). 
+Participatory Action Research with College Students with Disabilities: 
+Photo voice for an Inclusive Campus. Journal of Postsecondary Education 
+and Disability, 28 (2), 243-250.
+Alhossein, A. (2014). Perspectives of King Saud University faculty members 
+toward accommodations for students with Attention Deficit-Hyperactivity 
+Disorder (ADHD) (Unpublished doctoral dissertation). Kent State 
+University, USA. 
+Al-khashrami, S. (2011). Evaluation of the related support services at King 
+Saud University for students with special needs. Journal of King Saud 
+University/ Educational Sciences and Islamic Studies, 33 (1), 99-134.
+Al-Shammeri, H. (2008). Attitudes of disabled students toward their 
+integration in the student community of Kuwait University (Unpublished 
+master's dissertation). University of Jordan, Jordan.
+Álvarez Pérez, P., Alegre de la Rosa, O. M., & López Aguilar, D. (2012). 
+The difficulties of adapting university teaching for students with disabilities: 
+an analysis focused on inclusive guidance. Relieve, 18 (2), 1-17.
+Challenges encounter students with physical disabilities ________________________________________________________________________________________________________________________________
+59
+Baker, K., Bolland, K., & Nowik, C. (2012). A campus survey of faculty 
+and student perceptions of persons with disabilities. Journal of 
+Postsecondary Education and Disability, 25 (4), 309-329.
+Banks, J. (2014). Barriers and supports to postsecondary transition: Case 
+studies of African American students with disabilities. Remedial and Special 
+Education, 35 (1), 28-39.
+Barnar-Brak, L., Lectenberger, D., & Lan, W. Y. (2010). Accommodation 
+strategies of college students with disabilities. The Qualitative Report, 15 
+(2), 411-429.
+Barnard, L., Stevens, T., Siwatu, K., & Lan, W. (2008). Diversity beliefs as 
+a mediator to faculty attitudes toward students with disabilities. Journal of 
+Diversity in Higher Education, 1 (3), 169-175.
+Black, R. D., Weinberg, L. A., & Brodwin, M. G. (2015). Universal design 
+for learning and instruction: Perspectives of students with disabilities in 
+higher education. Exceptionality Education International, 25 (2), 1-16.
+Cawthon, S. W., & Cole, E. V. (2010). Postsecondary students who have a 
+learning disability: Student perspectives on accommodations access and 
+obstacles. Journal of Postsecondary Education and Disability, 23 (2), 112-
+128.
+Dyer, R. (2018). Teaching Students with Disabilities at the College Level. 
+Journal of Instructional Research, 7, 75-79.
+Eckes, S. E., & Ochoa, T. A. (2005). Students with disabilities: 
+Transitioning from high school to higher education. American Secondary 
+Education, 33 (3), 6-20.
+Erten, O. (2011). Facing Challenges: Experiences of Young Women with 
+Disabilities Attending a Canadian University. Journal of Postsecondary 
+Education and Disability, 24 (2), 101-114.
+Life Span and Disability Al Masa׳deh M. M.
+________________________________________________________________________________________________________________________________
+60
+Fleming, A. R., Plotner, A. J., & Oertle, K. M. (2017). College Students 
+with Disabilities: The Relationship between Student Characteristics, the 
+Academic Environment, and Performance. Journal of Postsecondary 
+Education and Disability, 30 (3), 209-221.
+Gelbar, N. W., Madaus, J. W., Lombardi, A., Faggella-Luby, M., & Dukes, 
+L. (2015). College students with physical disabilities: Common on campus, 
+uncommon in the literature. Physical Disabilities: Education and Related 
+Services, 34 (2), 14-31.
+Getzel, E. E. (2008). Addressing the persistence and retention of students 
+with disabilities in higher education: Incorporating key strategies and 
+supports on campus. Exceptionality, 16 (4), 207-219.
+Ginsberg, S. M., & Schulte, K. (2008). Instructional accommodations: 
+Impact of conventional vs. social constructivist view of disability. Journal of 
+the Scholarship of Teaching and Learning, 8 (2), 84-91.
+Haller, B. A. (2006). Promoting disability-friendly campuses to prospective 
+students: An analysis of university recruitment materials. Disability Studies 
+Quarterly, 26, 14-31.
+Herridge, A. S. (2017). First-Year Performance: Students with Disabilities 
+Transitioning to College from High School. College Student Affairs 
+Leadership, 4 (1): 4. Retrieved from https://scholarworks.gvsu.edu/csal/
+vol4/iss1/4.
+Hewett, R., Douglas, G., McLinden, M., & Keil, S. (2017). Developing an 
+inclusive learning environment for students with visual impairment in higher 
+education: progressive mutual accommodation and learner experiences in 
+the United Kingdom. European Journal of Special Needs Education, 32 (1), 
+89-109.
+Higher Council for the Affairs of Persons with Disabilities  HCAPD 
+(2017). Law on the Rights of Persons with Disabilities. Law Number 20 for 
+the year 2017. Amman, Jordan.
+Holloway, S. (2001). The experience of higher education from the 
+perspective of disabled students. Disability & Society, 16 (4), 597-615.
+Challenges encounter students with physical disabilities ________________________________________________________________________________________________________________________________
+61
+Hong, B. S. (2015). Qualitative analysis of the barriers college students with 
+disabilities experience in higher education. Journal of College Student 
+Development, 56 (3), 209-226.
+Hyassat, M. (2013). Jordanian Parents of Young Children with Disabilities 
+Perspectives on Care, Coping and Service Provision. Scholars’ Press.
+Hyassat, M. A. (2016). The Voice of Jordanian Parents of Young Children 
+with Disabilities on Involvement in Their Children's Educational Services. 
+International Journal of Special Education, 31 (3), 1-25.
+Individuals with Disabilities Education Act - IDEA (2004). Retrieved from 
+https://sites.ed.gov/idea/about-idea/.
+Kilpatrick, S., Johns, S., Barnes, R., Fischer, S., McLennan, D., & 
+Magnussen, K. (2017). Exploring the retention and success of students with 
+disability in Australian higher education. International Journal of Inclusive 
+Education, 21 (7), 747-762.
+Krider, C., Bendixen, R., & Lutz, B. (2015). Holistic needs of university 
+students with invisible disabilities: A qualitative study. Physical 
+Occupational Therapy in Pediatrics, 35 (4), 426-441.
+Kusek, T. A. (2017). A Qualitative Examination of Community College 
+Instructors' Strategies for Engaging Students with Physical Disabilities
+(Doctoral dissertation). Capella University.
+Lightner, K. L., Kipps-Vaughan, D., Schulte, T., & Trice, A. D. (2012). 
+Reasons university students with a learning disability wait to seek disability 
+services. Journal of Postsecondary Education and Disability, 25 (2), 145-
+159.
+Lowen, G., & Pollard, W. (2010). The social justice perspective. Journal of 
+Postsecondary Education and Disability, 23 (1), 5-18.
+Marshak, L., Van Wieren, T., Ferrell, D. R., Swiss, L., & Dugan, C. (2010). 
+Exploring barriers to college student use of disability services and 
+accommodations. Journal of Postsecondary Education and Disability, 22 
+(3), 151-165.
+Life Span and Disability Al Masa׳deh M. M.
+________________________________________________________________________________________________________________________________
+62
+Matonya, M. (2016). Accessibility and participation in Tanzanian higher 
+education from the perspectives of women with disabilities. Jyväskylä 
+Studies in Education, Psychology and Social Research, 568, 1-262.
+Melero, N., Moriña, A., & López-Aguilar, R. (2018). Life-Lines of Spanish 
+Students with Disabilities during their University Trajectory. The 
+Qualitative Report, 23 (5), 1127-1145.
+Mutanga, O. (2017). Students with disabilities’ experience in South African 
+higher education – a synthesis of literature. South African Journal of Higher 
+Education, 31 (1), 135-154.
+Opini, B. (2012). Barriers to Participation of Women Students with 
+Disabilities in University Education in Kenya. Journal of Postsecondary 
+Education and Disability, 25 (1), 65-79.
+Phillippe, L. K. (2012). Faculty perceptions of college students with 
+Attention Deficit Hyperactivity Disorder (Unpublished doctoral 
+dissertation). Texas Tech University, USA.
+Shevlin, M., Kenny, M., & McNeela, E. (2004). Participation in higher 
+education for students with disabilities: an Irish perspective. Disability & 
+Society, 19 (1), 15-30.
+Skinner, M. E. (2007). Faculty willingness to provide accommodations and 
+course alternatives to postsecondary students with learning disabilities. 
+International Journal of Special Education, 22 (2), 32-45.
+Sniatecki, J., Perry, H., & Snell, L. (2015). Faculty attitudes and knowledge 
+regarding college students with disabilities. Journal of Postsecondary 
+Education and Disability, 28 (3), 259-275.
+Soorenian, A. (2017). Inclusive Education and Disabled Students’ Genuine 
+Right to British Higher Education. Malta review of educational research, 11
+(2), 243-259.
+Squelch, J. (2010). Reasonable accommodation of university students with 
+disabilities. Journal of Applied Law and Policy (JALAP), 2010, 51-67.
+Challenges encounter students with physical disabilities ________________________________________________________________________________________________________________________________
+63
+Stallman, H. M. (2011). Psychological distress in university students: A 
+comparison with general population data. Australian Psychologist, 45 (4), 
+249-257.
+Sweener, K., Kundert, D., May, K., & Quinn, K. (2002). Comfort with 
+accommodations at the community college level. Journal of Developmental 
+Education, 25 (3), 12-42.
+Tagayuna, A., Stodden, R. A., Chang, C., Zeleznik, M. E., & Whelley, T. A. 
+(2005). A two-year comparison of support provision for persons with 
+disabilities in postsecondary education. Journal of Vocational 
+Rehabilitation, 22 (1), 13-21.
+Thompson S. (2018). The current situation of persons with disabilities in 
+Jordan. K4D Helpdesk Report. Brighton, UK: Institute of Development 
+Studies. Retrieved from https://assets.publishing.service.gov.uk/media/
+5bb22804ed915d258ed26e2c/Persons_with_disabilities_in_Jordan.pdf.
+Thompson-Ebanks, V. (2014). Personal Factors That Influence the 
+Voluntary Withdrawal of Undergraduates with Disabilities. Journal of 
+Postsecondary Education and Disability, 27 (2), 195-207.
+United Nations - UN (2006). Convention for the rights of persons with 
+disabilities. Geneva, Switzerland: UN.
+Van Hees, V., Moyson, T., & Roeyers, H. (2015). Higher education 
+experiences of students with autism spectrum disorder: Challenges, benefits 
+and support needs. Journal of Autism and Developmental Disorders, 45 (6), 
+1673-1688.
+Webster, D. D. (2004). Giving voice to students with disabilities who have 
+successfully transitioned to college. Career Development for Exceptional 
+Individuals, 27 (2), 151-175.
+Webster, D. D. (2004). Giving voice to students with disabilities who have 
+successfully transitioned to college. Career Development for Exceptional 
+Individuals, 27 (2), 151-175.
+Life Span and Disability Al Masa׳deh M. M.
+________________________________________________________________________________________________________________________________
+64
+Yssel, N., Pak, N., & Beilke, J. (2016). A door must be opened: Perceptions 
+of students with disabilities in higher education. International Journal of 
+Disability, Development and Education, 63 (3), 384-394.
+Copyright of Life Span & Disability is the property of Associazione Oasi Maria SS and its
+content may not be copied or emailed to multiple sites or posted to a listserv without the
+copyright holder's express written permission. However, users may print, download, or email
+articles for individual use.
+
+
+Article 3:
+
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=idre20
+Disability and Rehabilitation
+ISSN: 0963-8288 (Print) 1464-5165 (Online) Journal homepage: https://www.tandfonline.com/loi/idre20
+Understanding the consequences of access
+barriers to health care: experiences of adults with
+disabilities
+M. T. NERI & T. KROLL
+To cite this article: M. T. NERI & T. KROLL (2003) Understanding the consequences of access
+barriers to health care: experiences of adults with disabilities, Disability and Rehabilitation, 25:2,
+85-96, DOI: 10.1080/0963828021000007941
+To link to this article: https://doi.org/10.1080/0963828021000007941
+Published online: 07 Jul 2009.
+Submit your article to this journal 
+Article views: 1034
+View related articles 
+Citing articles: 14 View citing articles 
+Understanding the consequences of access
+barriers to health care: experiences of adults with
+disabilities
+M. T. NERI* and T. KROLL
+NRH Center for Health and Disability Research, 1016 16th Street, NW, Suite 400, Washington,
+DC 20036-5750, USA
+Accepted for publication: June 2002
+Abstract
+Purpose: The study explores: (1) the scope and nature of the
+consequences that adults with disabilities perceive as the result
+of inappropriate access to health care services; (2) the
+variability of these consequences by demographic attributes
+such as disability type, gender, and health insurance type; and
+(3) the inter-relatedness and multidimensionality of these
+consequences.
+Methods: Qualitative, semi-structured, in-depth interviews
+were administered over the telephone to 30 participants with
+spinal cord injury, cerebral palsy, or multiple sclerosis as part
+of a nation-wide study on access and utilisation in the USA.
+Interviews were transcribed and coded for analysis using the
+qualitative analysis program, NVivo.
+Results: Consequences were grouped into one of five
+categories: social, psychological, physical, economic and
+independence issues. Responses differed slightly with regard
+to disability type, gender and health insurance type. There was
+substantial overlap among consequence categories. For most
+respondents, negative consequences were not limited to just
+one areaÐfrequently, one consequence triggered others.
+Conclusions: Health insurers and providers need a better
+understanding of the multiple consequences of access barriers.
+Based on this knowledge, detrimental and costly effects of
+inappropriate service delivery could be more effectively
+prevented. Implications for health care services and policy
+are discussed.
+Introduction
+In the US there are approximately 22 million working-age people (between 21 and 64 years old) with a
+disability.1 Often, individuals with disabilities face
+speci®c problems in accessing health care services.2
+Some people with physical disabilities may have to
+rely on health care and support services more regularly than individuals without disabilities to monitor
+their condition over time, and to prevent costly and
+debilitating medical complications. However, they
+may not have the ®nancial means or the personal
+assistance that may be necessary to access the health
+care system as needed. The research presented in this
+paper illustrates how inappropriate (i.e. denied or
+delayed) access to needed health care services can lead
+to negative consequences for the health, well being,
+independence, and quality of life of adults with
+disabilities. A better understanding of access barriers
+is important in order to avoid the costly and detrimental consequences for both people with disabilities and
+the society in which they live, which often pays for
+these consequences.
+Many of the barriers to health care access are associated with lack of health insurance, ethnic/racial minority status and low income.3±9 Recent research has also
+highlighted the physical and environmental barriers
+(i.e. oce and building accessibility) to Americans with
+Disabilities Act (ADA) compliance.10 ± 12 Although the
+barriers to health care for people with disabilities have
+been described in qualitative studies,13 ± 15 limited qualitative research exists about the consequences that adults
+with disabilities experience as a result of these access
+barriers. This paper seeks to provide a better understanding of:
+. the scope and nature of consequences that adults with
+disabilities perceive as the result of denied or delayed
+access to health care services;
+. the variability of these consequences by demographic
+attributes such as disability type, gender, and health
+insurance type; and
+* Author for correspondence;
+e-mail: melinda.t.neri@medstar.net
+DISABILITY AND REHABILITATION, 2003; VOL. 25, NO. 2, 85 ± 96
+Disability and Rehabilitation ISSN 0963±8288 print/ISSN 1464±5165 online # 2003 Taylor & Francis Ltd
+http://www.tandf.co.uk/journals
+DOI: 10.1080/0963828021000007941
+. the inter-relatedness and multidimensionality of these
+consequences.
+The ®ndings presented in the article stem from a
+qualitative study of working age adults with spinal cord
+injury (SCI), cerebral palsy (CP) or multiple sclerosis
+(MS). The study participants self-reported on consequences of inappropriate access to health care for their
+health, lives, and service use. This exploration of multilayed consequences intends to provide an impetus to
+revisit the state of current health care delivery for adults
+with disabilities, and generate strategies for improvements in health care access, health maintenance, and
+health care ®nancing.
+Data and methods
+STUDY DESIGN
+This qualitative research was one component of a 3-
+year quantitative prospective study designed to assess
+the health care experiences of individuals in the USA
+with SCI, CP or MS. The quantitative component was
+comprised of a longitudinal, self-report mail survey
+administered yearly. The survey focused on dierences
+in access, utilisation and satisfaction among people with
+SCI, CP, or MS who were enrolled in managed care
+(MC) or fee-for-service (FFS) health insurance plans.
+In the survey, respondents were asked to select the
+general insurance plan type that best described their
+primary health insurance coverage at the current time.
+Managed care plans were de®ned by the study team in
+the following manner:
+An insurance plan in which all or most of the
+health care you receive is from doctors who are associated with the plan. Some managed care plans
+allow you to visit doctors not associated with the
+plan, but this involves an extra cost to you. Generally, you do not have to submit claims for the costs
+of medical services, and you may be required to
+visit your primary care doctor before visiting a
+specialist.
+A Fee-for-Service plan was de®ned as:
+Traditional health insurance that allows you to
+choose your provider and the services you receive
+without limitation. Claims are ®led by you or your
+doctor for health services received, and the insurance company covers the services after you pay a
+deductible amount.
+The longitudinal, quantitative study used a national,
+community-based sample of working-age adults
+(n=537) in the USA that was recruited mainly through
+national membership organizations for people with SCI,
+CP, and MS. Other recruitment methods included
+advertising in disability-speci®c newsletters and other
+national disability-related publications, posting on email list-servers, and displaying posters at Independent
+Living Centres and public libraries.
+SUBJECT SELECTION
+Survey respondents were considered eligible for participation in the qualitative component of the study if
+they reported access problems in at least three out of ®ve
+speci®c health service areas, including `primary care',
+`specialist care', `rehabilitative services', `mental health',
+and `durable medical equipment'. Access to these
+services is particularly crucial for people with disabilities
+in terms of long-term health maintenance and prevention of complications and secondary health problems,
+so the in-depth interview questions focused on these
+same service areas. Of the 49 respondents who met the
+eligibility criteria during the ®rst year of the longitudinal
+survey, 30 adults between the ages of 18 and 65 were
+purposefully selected for the qualitative telephone interviews. Participants were selected with the goal of
+approximating a relatively even representation of
+disability groups, women and men, and health insurance
+type in the ®nal qualitative sample.
+Several authors have considered qualitative interviews
+a valuable method in the policy and programme evaluation process.16 ± 18 A phenomenological approach was
+adopted in this study. In this approach, researchers have
+some prior knowledge in the topical area and seek more
+in-depth understanding of the data. This study aims for
+a greater understanding of the survey data that was
+collected and analysed prior to the interviewing process.
+INTERVIEW GUIDE
+The interview guide was developed in an iterative
+process. Content areas were de®ned based on the longitudinal survey. In total, the ®ve aforementioned service
+areas were addressed in the interview guide. As a ®rst
+step, a set of preliminary questions were developed,
+and subsequently re®ned. In order to ensure methodological rigour in the data collection and analysis process,
+all members of the research team participated in a
+formal, interviewer training session. The interview guide
+was then pilot-tested with two randomly selected respondents from the national survey. Their input led to further
+M. T. Neri and T. Kroll
+86
+re®nement of the questions, and produced additional
+probes. Advice was also solicited on length, verbal and
+cognitive appropriateness, and comprehension from
+our research colleagues with physical disabilities.
+The ®nal interview guide contained 10 core questions
+addressing four general topics for each service area: (1)
+perceived barriers to health care; (2) perceived consequences resulting from barriers to health care; (3) experiences with health care co-ordination; and (4)
+improvement of access to health care for people with
+disabilities. For each question, a set of speci®c probes
+made it possible for the interviewer to elicit detailed
+descriptions of the nature and context of speci®c
+barriers and consequences. The actual number of questions asked of respondents varied depending on the
+number of access diculties they had reported in the
+survey. For example, 19 respondents experienced access
+diculties in only three of the ®ve service areas we were
+interested in, therefore they were only asked questions
+regarding those three service areas.
+DATA ANALYSIS AND CODING
+The research team conducted all interviews over the
+telephone between March and August 2000. Each interview was audiotaped and transcribed. Interview transcripts were then imported into the qualitative
+software, NVivo19,20 for content coding and analysis.
+Computer software such as NVivo has been found bene-
+®cial for health services researchers in terms of speed,
+consistency, rigour, and access to broader analytical
+methods (e.g. integration of qualitative and quantitative
+techniques).21 NVivo allows the researcher to code for
+themes that emerge from the data, combine those
+themes, and further arrange and organise them into a
+hierarchical structure.
+As a ®rst step, `codes', or thematic groupings of the
+consequences (e.g. independence restricted; secondary
+physical conditions) were created independently by
+two members of the research team. One hundred and
+seventeen codes were initially identi®ed. Both analysts
+compared their coding and agreed upon a ®nal set of
+codes, which reduced the overall number of codes used
+to 41 (table 1). All transcripts were then thoroughly
+re-coded by both researchers. To facilitate analysis these
+codes were then grouped into the following ®ve `consequence categories' of social, psychological, physical,
+economic and independence issues in order to ease the
+comparison of these consequences with regard to the
+following attributes: disability type, gender, and health
+insurance type.
+Further, these consequence categories were sorted and
+analysed by the demographic attributes `disability type',
+`gender', and `health insurance type' to identify variability and dierences of consequences by these attributes.
+In a ®nal analytical step, three transcripts were purposefully selected for case studies based on their ability
+to describe how the consequences were inter-related and
+multidimensional. These case studies serve as examples
+of the complex picture of the consequences that are
+experienced by adults with disabilities as a result of
+barriers to health care.
+SAMPLE DESCRIPTION
+Table 2 provides details about the composition of the
+sample. The sample included 10 respondents from each
+of the three disability groups in the study: SCI, CP, and
+MS. Sixteen women and 14 men with a mean age of 44.8
+years (SD=8.30) were interviewed. The geographic
+distribution of the study participants was relatively even
+across the four major US census regions.
+More than two-thirds of the respondents indicated
+additional health problems, including, but not limited
+to, pain, musculo-skeletal problems (e.g. arthritis), and
+mental health problems (e.g. depression). Despite this
+substantial amount of co-morbidity experienced by our
+sample, nearly half of the participants described their
+health status as being excellent, very good, or good.
+However, all respondents but one (missing response)
+reported limitations in an instrumental activity of daily
+living (IADL, see table 2), and approximately two-thirds
+reported limitations in at least one activity of daily living
+(ADL).
+Table 1 Coding categories and codes
+Consequence Number
+category of codes Examples of codes
+Social 2 . Relationship and social roles impacted
+. Social participation impaired
+Psychological 9 . Depression
+. Frustration
+. Stress
+. Experiences of devaluation
+Physical 23 . IADLs and ADLs impaired
+. Pain
+. Fatigue, tiredness
+. Secondary physical conditions
+Economic 2 . Financial strain
+. Additional health care expenses
+Independence 5 . Independence restricted
+issues . Family assistance needed
+The consequences of access barriers to health care
+87
+Findings
+Below, each consequence category is described,
+followed by the dierences in reported consequences
+by disability type, gender, and health insurance type.
+Finally, the three purposefully selected case studies will
+be used to describe how perceived barriers to health care
+may produce multi-dimensional, interrelated consequences for persons with SCI, CP, and MS.
+The 30 qualitative study respondents identi®ed a
+multitude of consequences resulting from environmental
+(e.g. inaccessible provider facilities and equipment),
+structural (e.g. availability and choice of providers),
+and procedural (e.g. timely appointments; complex
+referral process for downstream services) barriers to
+needed health care services.22 The consequence categories were comprised of social, psychological, physical,
+and economic consequences, as well as consequences
+related to issues of independence.
+CONSEQUENCES
+Social
+The social consequences of barriers to health care
+encompassed strained relationships with family, friends,
+and colleagues, as well as modi®cations to existing social
+roles, and limitations in societal participation.
+Relationships. Several respondents noted that their
+relationships with family members and friends had been
+impacted as a consequence of not getting access to
+needed primary care services or durable medical equipment (DME). Workplace relationships were also
+aected, as is illustrated by the response of a 36-yearold female with MS. She could not locate a provider
+who was knowledgeable about MS and did not want
+to visit her current doctor, so as a result she was `a little
+bit hard to get along with because I didn't feel real good
+. . . I was not fun to be around' at work. Another
+respondent with SCI was also unable to see his primary
+care provider in a timely manner. He succinctly sums up
+the consequences: `If I'm sick, then I'm grumpy and
+unpleasant to be around, and at the same time, demanding more assistance from people around me, so it's a bad
+combination . . . relationships were tested'.
+Social roles. Existing and desired social roles were also
+threatened by inappropriate access to health care as
+some found it dicult to maintain the level of social
+contributions that they were either used to, or wanted
+to make. One woman in her early ®fties was on Social
+Table 2 Socio-demographic sample characteristics
+Variable (n=30; %)
+Age, mean (SD) 44.8 (SD=8.3)
+Sex
+Women 16 (53.3%)
+Men 14 (46.7%)
+Racial/ethnic background
+White 27 (90%)
+Asian Paci®c Islander 1 (3.3%)
+Native American 1 (3.3%)
+Other/unknown 1 (3.3%)
+US Census Region
+Northeast 7 (23.3%)
+Midwest 10 (33.3%)
+South 6 (20.0%)
+West 7 (23.3%)
+Disability
+Cerebral palsy (CP) 10 (33.3%)
+Multiple sclerosis (MS) 10 (33.3%)
+Spinal cord injury (SCI) 10 (33.3%)
+Currently employed 11 (36.7%)
+Currently receiving SSDI 14 (46.7%)
+Currently receiving SSI 7 (23.3%)
+Married or cohabiting 10 (33.3%)
+Household income
+Less than $20 000 15 (50.0%)
+$20 001 ± $40 000 6 (20.0%)
+$40 001 ± $60 000 4 (13.3%)
+$60 001 ± $80 000 3 (10.0%)
+More than $80 000 2 (6.7%)
+Primary health insurance type
+Managed care 16 (53.3%)
+FFS 14 (46.7%)
+Primary source of health insurance coverage
+Medicare 13 (43.3%)
+Medicaid 2 (6.7%)
+Private 13 (43.3%)
+Other 2 (6.7%)
+Self-rating of health in general
+Excellent 2 (6.7%)
+Very good 4 (13.3%)
+Good 9 (30%)
+Fair 12 (40.0%)
+Poor 3 (10.0%)
+Number of limitations in activities of daily living
+(ADL)
+0 11 (36.7%)
+1 ± 3 8 (26.7%)
+4 ± 6 11 (36.7%)
+Number of limitations in instrumental activities
+of daily living (IADL)*
+0 0
+1 ± 3 15 (50.0%)
+4 ± 6 14 (46.7%)
+Note: *Information for n=1 respondent is missing, marked 2 IADLs
+as not applicable
+M. T. Neri and T. Kroll
+88
+Security Disability Income (SSDI) due to her CP, and
+her `doctor didn't feel that it was necessary that I have
+occupational therapy, that I'm on disability and he
+didn't feel it was necessary at the time'. She felt that
+she couldn't just `sit around the house and do nothing.
+I have to be able to feel like I'm worthwhile doing something, even if it's sitting down and stung envelopes'.
+She was used to working as a nurse and being gainfully
+employed, but was unable to continue her role in the
+work force because she was unable to obtain a referral
+for occupational therapy.
+Social participation. Many respondents reported a
+decrease in social participation brought on by their
+restricted mobility as a consequence of not being able
+to obtain health care services that would have enhanced
+their mobility. For example, a common scenario was
+inadequate coverage for repairs of DME (such as a
+wheelchair) leaving respondents using defective equipment, thus limiting their mobility. For many, especially
+people with spinal cord injuries, the wheelchair is their
+mobilityÐwithout it their lives are severely restricted.
+When a defective wheelchair does not get repaired in a
+timely manner, their mobility and independence
+becomes limited, and at times, even lost. `If you're going
+to school, or if you have other things to do, which pretty
+much everybody does, even if you're not working, it
+takes a couple days away from your life because you
+don't have your chair' says a 40-year-old female with
+SCI.
+Other respondents also had to curtail their social
+interactions and were unable to participate in social
+events because they were using inadequate wheelchairs
+and were unable to obtain timely repairs. A defective
+wheelchair `just limited my being able to go or do much
+of anything at that time', says one 48-year-old respondent with SCI. Such was also the case with one 24-
+year-old male with SCI who could not ` . . . go out
+and socialize, get out and go places because it's so hard
+to get that thing (the wheelchair) to fold up'.
+Psychological
+Respondents also reported issues that were categorised as `psychological consequences', to include
+depression, frustration, stress and devaluation. The feeling of being useless also resulted from experiences with
+`®ghting the system' or encountering access diculties.
+A 52-year-old male study participant with SCI says,
+`You get to where you feel useless, and you get to where
+you really don't want to go on any further. You get tired
+of ®ghting the system'.
+Depression, frustration and stress. Respondents cited
+feelings of depression, frustration, and stress as a consequence of barriers to health care. After he was told that
+he would be unable to receive physical therapy services
+for his MS, a 44-year-old male respondent commented
+that `The biggest thing with me is the depression over
+having no future, and I think that is more from my deteriorating due to not exercising or receiving physical therapy'.
+Along with such experiences of depression, respondents often cited stress and frustration with the structure
+of managed care plans and the referral process. `I'm in a
+managed care plan, so to do anything you must go
+through your primary care provider (PCP), and that is
+one of the frustrations. If you can't see your PCP, you
+don't have any other options'. (Female with SCI, 48-
+years-old). A 30-year-old woman with MS concurs: `It
+was also frustration that I couldn't refer myself'. When
+another 37-year-old woman with MS was unable to see
+her PCP, her `stress level doubled'. She went on to
+explain that `I usually get extremely tired because of
+the stress'.
+Experiences of devaluation. Some respondents also felt
+misunderstood and devalued by doctors who were
+unable to provide for them and their needs in a timely
+and knowledgeable manner. `If you go in, and she
+(PCP) doesn't have the time of day for you, why go
+through that entire hassle. And it was a big emotional
+turmoil for me to go in and feel as though it was a total
+waste of time, that I was being devalued, and that it
+wasn't doing any good anyway', says a 44-year-old
+female with MS. Because of this, she actually curtailed
+her health care utilization: `A lot of times if there was
+a medical problem, I would decide that it wasn't even
+worth going in because it might not help . . . '
+Even if provider oces were accessible, there was still
+the issue of oce equipment accessibility, with nonaccessible equipment often making care for people with
+disabilities more dicult. One 40-year-old woman with
+SCI spoke of the awkwardness she felt during transfers
+by untrained sta at oce visits:
+The tables you must lie on for those are up so high
+you couldn't dream of ¯ying up there. They are
+just not accessible, and the only way to get up
+there is to have people lift you. They make you feel
+very awkward. I weigh about 130 pounds, and
+they will bring ®ve people to lift me up on the table, and everyone starts pulling at your pants on
+one leg. They think nothing of it. They think, `let's
+throw her up there and strip her'.
+The consequences of access barriers to health care
+89
+Physical
+The most frequently noted physical consequences of
+inappropriate access to health care services were made
+in reference to a general deterioration in health. This
+included the increased risk for secondary conditions,
+as well as limitations in completing household chores
+and maintaining personal hygiene.
+Deterioration in health. As a result of inadequate
+access to health care services, participants experienced
+varying degrees of health-related deterioration, such as
+muscular weakness, shoulder damage, and increased
+risk for development of secondary conditions, such
+as decubitus ulcers. For example, the inability to see
+one's provider for a prescription caused a deterioration in health, `I went without medication that I
+needed. Because of that, instead of getting better, I
+was getting worse' (38-year-old woman with CP).
+Inaccessible provider oces also meant that some
+respondents would only see their PCP when it was
+absolutely necessary, thus putting their health in
+jeopardy:
+I'd wait until an upper respiratory infection evolved
+into pneumonia before I would go . . . I did not follow through with a course of treatment that my gynaecologist wanted me to have because it meant
+going to the oce, minimally once a month for at
+least six months, and there was no way. (44-yearold woman with MS)
+The inability to obtain DME in a timely manner also
+hampered mobility and caused injuries for a 53-year-old
+man with MS, `If these rascals from Medicare had
+approved a scooter or something for me, I wouldn't
+have been falling all over and I wouldn't have bones that
+are all out of place and have bursitis'. Delays in wheelchair repairs led to prolonged use of inappropriate
+wheelchairs, which increased shoulder damage for many
+respondents with SCI. For example, one 40-year-old
+woman experienced `increased problems with the
+shoulders, again because of overuse of having to wheel
+around . . . that chair supports me in a dierent way
+and creates problems with the muscles that aren't
+supported'. Another man with SCI concurred: `As far
+as not being able to get the wheelchair any quicker, I
+was causing more damage to my shoulders'. And yet
+another male respondent with SCI observed that as a
+result of delayed repairs to his wheelchair, `I blew out
+my shoulders . . . I'm getting (to) where I can't push a
+manual chair anymore'.
+Activity limitations. Respondents experienced limitations in activities of daily living (ADLs) and instrumental activities of daily living (IADLs) that prevented them
+from carrying out household chores, and leisure activities. One 52-year-old female respondent with CP
+pointed out that after she was unable to see her PCP,
+`Things didn't get done that normally get done. I
+couldn't stand and cook meals like I usually do and I
+couldn't clean the house, stand and do dishes or things
+like that'. A 43-year-old man with CP noted that due
+to a lack of access to his provider, `My daily functioning
+decreased throughout that time. I ended up having
+another surgery . . . They said that could have been
+avoided if other doctors would have attempted to look
+at it (his leg)'. In addition, there were also reports of
+diculty with personal hygiene. A middle-aged woman
+with MS who experienced delays in obtaining DME
+said, `All my activities of daily living are severely limited
+because our shower is at the other end of the house, so
+it's a real problem if I don't get the scooter'.
+Economic
+Financial strain and additional health service expenditures were other consequences of inappropriate access to
+health care services. Deteriorating health and the development of secondary conditions sometimes necessitated
+additional and more comprehensive services adding to
+personal health care expenses, and straining economic
+resources. This issue is exacerbated for those on limited
+incomes, as the costs of using more health care services
+can add up rather quickly.
+Financial strain. Some participants had to miss work
+as a consequence of their increased pain or deteriorating
+health due to inappropriate health care service access.
+Lost work time and decreased job productivity translated into economic hardship, as was the case with one
+56-year-old man with CP, `If I'm in too much pain, I
+can't go to work. It amounts to pinching pennies and
+spending dollars instead'. For others, paying out of
+pocket for supplies that are not covered by health insurance plans leads to economic hardship and ®nancial
+strain. `Supplies, I have to buy . . . They (insurance)
+don't buy a lot of that stu. I have to pay for it out of
+the minimum wage . . . ' (49-year-old male with CP).
+Additional health service expenditures. For some,
+increased service utilization resulted from lack of timely
+or appropriate access to certain health care services.
+This was especially true with regard to physical therapy.
+Some respondents did not obtain needed therapy for
+M. T. Neri and T. Kroll
+90
+maintaining muscle strength and mobility because their
+insurance would only pay for a limited number of physical therapy sessions. A middle-aged woman with MS
+explained how her ®nancial situation would be impacted
+if she was not going to be able to obtain needed physical
+therapy: `If I don't get stronger . . . I have small children, so I might need someone to come in and help
+him (her husband), and there's another expense'.
+Another 51-year-old woman with SCI obtained only a
+limited number of physical therapy visits, so when she
+reached her limit, she paid for them on her own to
+continue, thus exhausting her savings account and
+straining her ®nances.
+Independence issues
+Respondents perceived a greater need to rely on
+others for assistance as a result of not obtaining the
+appropriate health care that would have allowed them
+to continue to perform these activities on their own.
+Traditional roles were challenged and they spoke of
+experiencing a loss of independence and having to rely
+more on spouses, children, colleagues, and friends for
+assistance.
+Greater dependency on others. Husbands helped wives
+out of bed, children helped in tasks that were traditionally carried out by their parents (e.g. cooking and cleaning), and neighbours helped respondents enter their
+homes. `I'm no longer able to push up the ramp into
+my house. So I have to wait until a neighbour comes
+home to get into the house . . . my life has really changed' (Male with SCI, 48, denied physical therapy visits).
+The inability to obtain or repair DME in a timely
+manner often led to a greater dependency on others.
+One 29-year-old female with CP was unable to obtain
+a new wheelchair, so she had to use her inadequate
+back-up chair, which made her more dependent on
+others: `It's more of a headache because I can't lift
+and transfer the chair in and out of my car on my
+own . . . I've had to use my cell phone and have coworkers come out of the building to drag my chair in
+and out of my car. It totally kills any idea of true independence'.
+One 36-year-old mother with MS found that after she
+was unable to see her specialist, she had `to ask for a
+little more help at home, with my son'. This loss of independence presented her with:
+. . . uncomfortable situations, having to have my
+son help me, things like that. It made me feel more
+dependent, and I just hate that. I'm the mom; I'm
+the one that you're depending on . . . it does bother me when I have to give up the independence and
+have people help me. It's really a problem for me
+because I'm the one that did all this before.
+CONSEQUENCES OF ACCESS BARRIERS BY DISABILITY TYPE,
+GENDER, AND HEALTH INSURANCE TYPE
+The consequence domains were sorted by three demographic attributes, to include `disability type', `gender',
+and `health insurance type'. Table 3 contains the
+number of respondents organized by attributes who
+observed consequences in the social, psychological,
+physical, economic, and independence-related domains.
+For 262 tables (i.e. consequence domains by gender
+and health insurance type) Fisher's exact test (onetailed, alpha=0.05) was computed. Where small cell
+sizes precluded a meaningful statistical analysis, visual
+inspection of the data was used to highlight consistency,
+variability and dierences in the data for each attribute.
+Disability type
+There was some variability across all three disability
+groups in each consequence domain. Very little variation was found in the most frequently and the least
+frequently noted domains, `physical consequences' and
+`economic consequences', respectively. Variability was
+greatest with regard to `independence-related issues',
+closely followed by `social consequences'. Respondents
+with MS were half as likely as CP respondents to report
+`independence-related' consequences; SCI respondents
+were more than three times as likely as people with CP
+to state `social consequences'. Statistical analyses for
+Table 3 Consequence domains by disability type, gender, and health
+insurance type (number of respondents)
+Consequence domains
+IndependenceSocial Psychological Physical Economic related issues
+Disability type
+CP 2 7 9 2 7
+MS 5 9 10 1 3
+SCI 7 8 10 2 4
+Gender
+Female 7 11 16 1 9
+Male 8 3 13 4 9
+Health insurance type
+MC 7 9 15 3 10
+FFS 8 5 14 2 8
+The consequences of access barriers to health care
+91
+disability type were not conducted due to the small cell
+sizes, and Fisher's exact test limitation to 262 tables.
+Gender
+The most frequently noted consequence domain was
+`physical consequences'. More women reported consequences in this domain. Statistically signi®cant gender
+dierences were found only for psychological consequences, with nearly four times as many women
+(n=11) reporting consequences in this domain compared
+to men (n=3) (p=0.012). No or little dierence was
+found for `independence-related issues' and `social
+consequences'. The least noted consequence domain
+was `economic consequences', and four times as many
+men reported consequences in this domain than women.
+Health insurance type
+In comparing enrolees in MC vs FFS health insurance
+plans, the largest dierences were found for the consequence domain `psychological consequences'. Managed
+care respondents were almost twice as likely to cite
+psychological consequences than their FFS counterparts. However, this dierence was not statistically
+signi®cant. There were no or small dierences between
+FFS and MC enrolees in consequence domains other
+than `psychological'. No statistically signi®cant dierences between MC and FFS were found for any of the
+consequence domains.
+THREE CASE STUDIES
+Barriers rarely produced just a single consequence.
+Far more frequently the aforementioned consequences
+showed complex interactions with far-reaching implications for many areas of respondents' lives. In some cases
+several simultaneous consequences resulted from one
+distinct barrier to care, while in other cases consequences showed a `sequential eect' with one consequence leading to another.
+A combination of barriers to care sometimes led to an
+interaction among the consequences experienced. For
+example, one 52-year-old man with a spinal cord injury
+was publicly insured through Medicare (see ®gure 1),
+which would not cover the costs of a new power chair
+because he was only covered for new DME once every
+®ve years, and he could not aord one on his limited
+income. As a consequence, he had to continue to use
+his manual wheelchair, which caused more damage to
+his already arthritic shoulders. As a result of his
+increased shoulder damage, he was then unable to care
+for his legs: `I can't straighten them out any more all
+the way . . . I couldn't work my legs because it hurt
+Figure 1 Case description of a 52-year-old male respondent with a spinal cord injury. Shaded objects indicates barriers, un-shaded objects indicate
+consequences.
+M. T. Neri and T. Kroll
+92
+(my shoulders) so bad to reach down and pull them up,
+to bend them . . . that all goes back to the wheelchair
+problem'.
+The shoulder deterioration also led to increased
+service utilization, namely physical therapy, to strengthen his arms and shoulders so that he could continue to
+use his existing manual chair. However, it turned out
+that it was too late for physical therapy to remedy his
+shoulder deterioration. This had detrimental consequences for his independence. `They've (shoulders)
+gotten to a point now to where that is creating a
+problem with transferring. If I could have gotten it
+(physical therapy) done earlier, there's a great possibility
+this problem could have been helped'. In turn, all of this
+caused him great concern for his future and ability to
+live alone and independently:
+What's going to happen now is it's just shortening
+the time I'm going to be able to live by myself. I'm
+going to have to go into a nursing home eventually, but a lot quicker. It has probably cut three
+to ®ve years o of it. I'll be lucky if I can stay by
+myself, say, another three, four years.
+Thus, the consequences from barriers to accessing
+health care for this respondent were far-reaching and
+complex. The physical deterioration contributed to his
+decreased independence, as he was beginning to experience problems with transferring. Together, the interrelatedness of the physical and independence consequences led him to believe that his current lifestyle was
+in jeopardy, and that he would need nursing home care
+much sooner than he anticipated.
+A 44-year-old woman with multiple sclerosis reported
+inter-related consequences that stemmed from inaccessible facilities (see ®gure 2). The parking lots of provider
+oces were on a steep incline so that `when you park,
+you then have to go up a hill . . . It just can't be done.
+I'd have to . . . just sit there and rest my arms . . . and
+I was desperately ®ghting for a power chair for years'.
+This was very upsetting for her and consequently, she
+decided to delay preventive care that was needed so that
+she would not have to deal with the mental and physical
+fatigue of the parking lot situation. `It was so upsetting,
+the thought of even having to go (to her provider) was
+so distressing! I thought, `screw it!' If I'm not going to
+die, if nothing horrible is happening to me, never mind!'
+The inaccessibility of the parking lot jeopardised her
+health care, and may continue to do so.
+The physical strain of using a manual chair also had
+consequences for her social life as her community involvement became more limited:
+I don't do as much. I ®nd myself having to miss
+out on things . . . there are things that I need to
+do, there are places I need to go. I can't get there
+. . . When I see that there's going to be something
+happening somewhere, and I know that the accessibility is a serious question, if I had a power chair,
+I could go up that hill. I might be able to make
+that ramp . . . I can't do that (with a manual
+chair).
+For this woman, the physical consequences were
+inter-related with the social consequences that she
+experienced in that they contributed to limitations in
+her social life. She was no longer strong enough to
+manoeuvre her manual chair, which limited her social
+life and options.
+Our last case study (see ®gure 3) illustrates the interrelated consequences of inappropriate access for a
+woman with cerebral palsy. As a result of delayed physical therapy services, her overall condition declined
+which limited her mobility and caused her to become
+more dependent on her husband and assistive devices:
+`A lot of my mobility was cut down, and I couldn't do
+the things I normally do. My husband would have to
+help me out of bed'. She had to start using a cane to
+assist her with her walking and was unable to perform
+daily housekeeping tasks, so her family had to assist
+her with them. Although her declining condition initially
+only aected her physical mobility, in the long-term it
+also aected her ability to care for herself independently
+and be productive in her home.
+There were also psychological consequences in that
+she felt misunderstood by those who were not knowledgeable about CP and her limited mobility:
+Figure 2 Case description of a 44-year-old woman with multiple
+sclerosis. Shaded object indicates barrier, un-shaded objects indicate
+consequences.
+The consequences of access barriers to health care
+93
+I think people need a better understanding of what
+cerebral palsy is. We're not stupid people just because our bodies don't work right; our minds do.
+We can still be productive and useful citizens. Just
+because we have a disability doesn't mean that
+we're broken.
+These three case studies illustrate how the consequences experienced by our respondents can be interrelated and far-reaching. Inappropriate, untimely, and
+inaccessible health care services are some of the barriers
+that can lead to these social, psychological, physical,
+economic, and independence related consequences for
+adults with disabilities.
+Discussion
+Study participants identi®ed a diverse set of consequences as a result of access barriers to health care
+services. Our research was able to contextualise these
+consequences in respect to the social, psychological,
+physical, economic, and independent lives of our
+respondents.
+Physical consequences were cited most often by our
+respondents, regardless of disability type, gender, or
+health insurance type. This is consistent with ®ndings
+from a recent quantitative study on barriers to accessing
+health care among people with disabilities.23 As noted
+previously, physical consequences were often the result
+of delays in obtaining DME and/or rehabilitative therapies. Therefore, it is possible that the detrimental physical consequences (e.g. secondary conditions, such as
+pressure sores, and functional decline) experienced by
+our respondents could have been prevented with the
+appropriate delivery of DME and rehabilitative therapies, including maintenance therapy. Unfortunately,
+most health insurance plans in the USA do not cover
+maintenance therapies that, in essence, ensure independent living, and only cover those therapies that restore
+or improve function. In addition, coverage for DME is
+often limited to a predetermined number of visits over
+a certain time period (e.g. 20 visits over a year) or to a
+set dollar amount. This means that people with disabilities may not always be able to receive these services
+when they need them, or to the extent that they need
+them. As shown, the lack of maintenance therapies
+and DME can lead to harmful consequences that may
+not be fully understood by health care providers and
+health insurance plans.
+In this comparison of consequence domains by the
+demographic attributes of disability type, gender, and
+health insurance type, a heterogeneous picture has been
+found. There was substantial variability in the types of
+consequences that were reported by each of the three
+disability groups, especially for social and independence-related consequences. It is unclear what lies
+behind these dierences. This may re¯ect dierences in
+the degree of the mobility impairment across the three
+Figure 3 Case description of a 52-year-old woman with cerebral palsy. Shaded object indicates barrier, un-shaded objects indicate consequences.
+M. T. Neri and T. Kroll
+94
+disability types, as well as the variability of disability
+presentation and severity. The small cell sizes may have
+also produced random variability. A statistical analysis
+was not possible since the minimum requirements for
+cell and table size were not met.
+The results also point to gender dierences in the
+reporting of the consequences of barriers to health care.
+While women reported more psychological consequences (such as frustration) as a result of inappropriate
+access, men stressed economic consequences more often
+than women did. This gender dierence for psychological consequences was statistically signi®cant, yet for
+economic consequences it was not. Further research
+would be needed to determine whether the tendency of
+women to report more psychological consequences is
+the result of dierences in the experience of access
+problems or rather a greater frankness among women
+to report such psychological concerns. Frustration with
+various access to care barriers was also reported as a
+major consequence in another qualitative study, albeit
+a gender dierence was not reported.24
+Similarly, it is not known why four times as many
+men as women reported economic consequences. On
+the one hand, it is possible that men are more likely to
+frame personal consequences in economic terms, keeping with traditional male role expectations. On the other
+hand, our sample was comprised of twice as many men
+(n=10) than women (n=5) who had a household
+income of less than $20 000, which points to true
+economic dierences and need. Moreover, our male
+respondents were more likely to be single (i.e. divorced,
+not married, or widowed), perhaps indicating economic
+hardship by living o a single income, with the additional possibility of child support payments for those
+who are divorced.
+Finally, no statistically signi®cant dierences between
+respondents in MC plans compared to those covered by
+FFS plans in any of the consequence domains were
+found. However, a few observations can be made regardless of statistical signi®cance. Almost twice as many MC
+enrolees experienced psychological consequences as a
+result from denied access than their FFS counterparts.
+If replicable in a larger sample this ®nding may re¯ect
+some of the diculties people with disabilities in MC
+plans face in accessing specialist care and downstream
+services (e.g. rehabilitative therapies), areas of care that
+are typically restricted in MC plans. The psychological
+impact of denied care and services may prove costly in
+the long-term. As our research has shown, frustration,
+anger, and depression may weaken the individual's motivation to seek care, to adhere to treatment regimens, and
+to initiate necessary preventive strategies.
+Our three case descriptions showed how access
+barriers to health care services can produce multiple
+consequences at any given point in time. The inter-relatedness of these consequences experienced by our respondents was quite surprising in that so many consequences
+could be borne from one or two access barriers and have
+multiple eects on the respondent's life. Obstacles to
+timely and appropriate services may set in motion a
+sequence of various consequences that emerge and
+develop over time, adding to their impact on the individual in terms of harmful and irreversible eects.
+The convenience character of the sample which was
+based on a larger, national study population that was
+not necessarily representative of people with disabilities
+in the USA is also recognised. This study focused on
+adults with SCI, CP, or MS and thus may not re¯ect
+the experiences of other disability groups. Moreover,
+the sample was composed of individuals who all stated
+that they had experienced diculties with accessing
+needed health care services in at least three out of ®ve
+service areas. This subset was chosen based on the wish
+to explore the consequences related to these barriers in
+the greatest possible depth. The qualitative methodology
+does not claim that these results will be generalizable25 to
+all people with disabilities. Rather, our ®ndings illustrate the complex ways that multiple access barriers
+and their consequences impact the lives of adults with
+disabilities.
+Conclusion
+In conclusion, the ®ndings point to implications for
+the delivery of health care for adults with disabilities.
+Appropriate and timely access to health care services
+is the only way to reduce the barriers that lead to the
+consequences discussed in this paper. In this vein, more
+health care providers and insurance plans must become
+`disability literate' in order to treat adults with disabilities more eectively and to reduce the barriers they
+encounter. This involves an enhanced skill set, as well
+as an increased sensitivity to and understanding of the
+variable needs of people with disabilities. Greater
+disability literacy would provide people with disabilities
+with more appropriate care in that providers would
+recognize their need for timely services and referrals.
+The successful implementation of disability literate
+health insurance plans would also oer adequate coverage for maintenance and rehabilitative therapies, as well
+as DME. In the USA most cost saving eorts focus on
+the acute health care needs of the average health care
+consumer. Coverage for services is typically limited to
+those that restore or improve function. However, people
+The consequences of access barriers to health care
+95
+with disabilities need services that help them to maintain
+function and to prevent complications, functional
+decline, and secondary conditions. As our case studies
+have shown, these `cost-saving models' of health care
+delivery can `back®re', and increase the need for even
+more expensive services and lead to harmful consequences in the long-term.
+In the USA, progress is being made towards the
+reduction of some of the environmental barriers (e.g.
+building accessibility) cited as the cause of some of our
+respondents' consequences. The Healthy People 2010
+initiative in the USA26 calls for the reduction of barriers
+in homes, schools, work places, and other community
+settings. It remains to be seen whether these eorts will
+also result in more accessible provider oces and diagnostic equipment. At the very least, national initiatives
+like Healthy People 2010 will raise awareness of disparities in health care access for people with disabilities.
+Along with the awareness building for accessibility
+issues, it is also necessary to promote eorts that target
+the provider and health insurance communities to
+enhance disability literacy. This will be an important
+step towards minimising the occurrence and severity of
+the consequences experienced by adults with disabilities.
+Acknowledgements
+The authors would like to thank Jessica Scheer, PhD for her
+contribution and leadership during the design of the structured
+interview guide and administration of the in-depth interviews, and
+Susan Palsbo, PhD and Phillip Beatty, MA for their valuable editorial
+comments on this manuscript. They would also like to thank all of the
+interviewees who generously gave their time and effort to this project.
+This study was made possible by a grant from the US Department of
+Education, National Institute on Disability and Rehabilitation
+Research (Grant No. H133B70003). Ethical approval was obtained
+through the fully-accredited Institutional Review Board (IRB) of the
+MedStar Research Institute (MRI) in Washington, DC and informed
+consent was obtained for every interviewee prior to the study pursuant
+to the guidelines set forth by the MRI IRB.
+References
+1 United States Census Bureau. Pro®le of Selected Social Characteristics: 2000, Census 2000 Supplementary Survey Summary Tables.
+Washington, DC: US Census Bureau, US Department of
+Commerce, 2000.
+2 Davis MH, O'Brien E. Pro®le of persons with disabilities in
+Medicare and Medicaid. Health Care Financing Review 1996; 17(4):
+179 ± 211.
+3 Kaiser Family Foundation. The Uninsured and Their Access to
+Health Care. Kaiser Commission on Medicaid and the Uninsured
+Fast Facts, Fact Sheet #14206, Washington DC, January 2001.
+4 Kaiser Family Foundation. Immigrants' Health Care Coverage and
+Access. Kaiser Commission on Medicaid and the Uninsured Fast
+Facts, Fact Sheet #2231, Washington DC, March 2001.
+5 Kaiser Family Foundation. Health Insurance Coverage and Access
+to Care Among African Americans. Kaiser Commission on Medicaid
+and the Uninsured Fast Facts, Fact Sheet #2199, Washington DC,
+June 2000.
+6 Kaiser Family Foundation. Health Insurance Coverage and Access
+to Care Among Latinos. Kaiser Commission on Medicaid and the
+Uninsured Fast Facts, Washington DC, June 2000.
+7 Kaiser Family Foundation. Health Insurance Coverage and Access
+to Care Among Asian Americans and Paci®c Islanders. Kaiser
+Commission on Medicaid and the Uninsured Fast Facts, Washington
+DC, June 2000.
+8 Kaiser Family Foundation. Health Insurance Coverage and Access
+to Care Among American Indians and Alaska Natives. Kaiser
+Commission on Medicaid and the Uninsured Fast Facts, Washington
+DC, June 2000.
+9 Bloom B, Simpson G, Cohen RA, Parsons PE. Access to health
+care, Part 2: working-age adults. National Center for Health
+Statistics. Vital Health Stat 1997; 10(197): 1 ± 8.
+10 Sanchez J, By®eld G, Brown TT, LaFavor K, Murphy D, Laud P.
+Perceived accessibility versus actual physical accessibility of
+healthcare facilities. Rehabilitation Nursing 2000; 25(1): 6 ± 9.
+11 Rose KA. A survey of the accessibility of chiropractic clinics to the
+disabled. Journal of Manipulative & Physiological Therapeutics
+1999; 22(8): 523 ± 529.
+12 Grabois EW, Nosek MA, Rossi CD. Accessibility of primary care
+physicians' oces for people with disabilities: an analysis of
+compliance with the Americans with disabilities act. Archives of
+Family Medicine 1999; 8(1): 44 ± 51.
+13 Thomas C, Curtis P. Having a baby: some disabled women's
+reproductive experiences. Midwifery 1997; 13: 202 ± 209.
+14 Becker H, Stuifbergen A, Tinkle M. Reproductive health care
+experiences of women with physical disabilities: a qualitative study.
+Archives of Physical Medicine and Rehabilitation 1997; 78(5): S26 ±
+S33.
+15 O'Day B, Palsbo SE, Dhont K, Scheer J. Health plan selection
+criteria by people with impaired mobility. Medical Care, September
+2002.
+16 Vaughn S, Schumm J, Sinagub J. Focus Group Interviews in
+Education and Psychology. Thousand Oaks: Sage, 1996.
+17 Lorig K. Patient Education: A Practical Approach. St Louis: Mosby
+Year Book, 1992.
+18 Harrison K, Barlow JH. Focus group technique: a consumer
+perspective on outpatient therapeutic services. British Journal of
+Therapy and Rehabilitation 1995; 2(6): 323 ± 327.
+19 Richards L. Computer monitor: data alive! The thinking behind
+NVivo. Qualitative Health Research 1999; 9(3): 412 ± 428.
+20 Richards L. Using NVivo in Qualitative Research. Buundora,
+Australia: QSR Pty Lmt, 1999.
+21 Weitzman EA. Analysing qualitative data with computer software.
+Health Services Research 1999; 34(5): 1241 ± 1263.
+22 Scheer J, Kroll T, Neri MT, Beatty P. Access barriers for persons
+with disabilities: the consumers' perspective. Journal of Disability
+Policy Studies, in press.
+23 Hagglund KJ, Clark M, Conforti K, Shigaki CL. Access to health
+care services among people with disabilities receiving medicaid.
+Missouri Medicine 1999; 96(9): 447 ± 453.
+24 Pierce LL. Barriers to access: frustrations of people who use a
+wheelchair for full-time mobility. Rehabilitation Nursing 1998;
+23(3): 120 ± 125.
+25 Creswell JW. Qualitative Inquiry and Research Design: Choosing
+Among Five Traditions. Thousand Oaks: Sage, 1998.
+26 US Department of Health and Human Services. Tracking Healthy
+People 2010. Washington, DC: US Government Printing Oce,
+November 2000.
+M. T. Neri and T. Kroll
+96
